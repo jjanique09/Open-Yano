@@ -2,24 +2,17 @@
 import fs from 'node:fs';
 import {
   formatJobsMarkdown,
-  searchIndeedRemoteHolland,
+  searchRemoteHollandJobs,
 } from '../lib/indeed-remote-holland.mjs';
-
-const firecrawlApiKey = process.env.FIRECRAWL_API_KEY;
-if (!firecrawlApiKey) {
-  console.error(
-    'FIRECRAWL_API_KEY is required. Add it to repo secrets for GitHub Actions or .env.local locally.',
-  );
-  process.exit(1);
-}
 
 const query = process.env.INDEED_QUERY ?? 'remote';
 const location = process.env.INDEED_LOCATION ?? 'Nederland';
 const maxJobs = Number(process.env.INDEED_MAX_JOBS ?? '25', 10);
+const firecrawlApiKey = process.env.FIRECRAWL_API_KEY || null;
 
-console.log(`Indeed Holland remote agent — q="${query}" l="${location}" max=${maxJobs}`);
+console.log(`Holland remote jobs agent — q="${query}" l="${location}" max=${maxJobs}`);
 
-const report = await searchIndeedRemoteHolland({
+const report = await searchRemoteHollandJobs({
   firecrawlApiKey,
   query,
   location,
@@ -33,21 +26,24 @@ fs.writeFileSync(jsonPath, JSON.stringify(report, null, 2));
 fs.writeFileSync(mdPath, formatJobsMarkdown(report));
 
 console.log(`Wrote ${jsonPath} (${report.jobCount} jobs) and ${mdPath}`);
+console.log(`Indeed search: ${report.indeedSearchUrl}`);
 
 const summaryPath = process.env.GITHUB_STEP_SUMMARY;
 if (summaryPath) {
   const preview = report.jobs
     .slice(0, 10)
-    .map((j, i) => `${i + 1}. [${j.title}](${j.url})`)
+    .map((j, i) => `${i + 1}. [${j.title}](${j.url}) (${j.source})`)
     .join('\n');
   fs.appendFileSync(
     summaryPath,
     [
-      '## Indeed remote jobs — Netherlands',
+      '## Remote jobs — Netherlands',
       '',
       `**Jobs:** ${report.jobCount} · **Query:** \`${query}\` · **Location:** \`${location}\``,
       '',
-      preview || '_No jobs parsed._',
+      `[Open Indeed search](${report.indeedSearchUrl})`,
+      '',
+      preview || '_No jobs from feeds._',
       '',
       report.jobCount > 10 ? `_…and ${report.jobCount - 10} more in the artifact._` : '',
     ].join('\n'),
@@ -55,6 +51,6 @@ if (summaryPath) {
 }
 
 if (report.jobCount === 0) {
-  console.warn('Agent finished but parsed 0 jobs — check Firecrawl output / Indeed markup.');
-  process.exitCode = 2;
+  console.warn('No jobs returned from feeds.');
+  process.exitCode = 1;
 }

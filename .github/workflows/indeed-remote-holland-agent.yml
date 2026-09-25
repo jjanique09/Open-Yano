@@ -1,14 +1,22 @@
 name: Indeed Remote Holland Agent
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/indeed-remote-holland-agent.yml
+      - lib/indeed-remote-holland.mjs
+      - scripts/indeed-remote-holland-agent.mjs
+      - scripts/indeed-remote-holland-parser.test.mjs
   workflow_dispatch:
     inputs:
       query:
-        description: Indeed search query
+        description: Search query (also used for Indeed URL)
         required: false
         default: remote
       location:
-        description: Indeed location (Netherlands)
+        description: Location label (Netherlands)
         required: false
         default: Nederland
       max_jobs:
@@ -16,8 +24,8 @@ on:
         required: false
         default: "25"
   schedule:
-    # Mondays 07:15 UTC
-    - cron: "15 7 * * 1"
+    # Mon / Wed / Fri 07:15 UTC — no manual runs required
+    - cron: "15 7 * * 1,3,5"
 
 permissions:
   contents: read
@@ -26,20 +34,15 @@ permissions:
 jobs:
   indeed-remote-holland:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
       - name: Parser self-test
         run: node scripts/indeed-remote-holland-parser.test.mjs
 
-      - name: Run Indeed Holland remote agent
+      - name: Run Holland remote jobs agent
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           INDEED_QUERY: ${{ github.event.inputs.query || 'remote' }}
@@ -66,15 +69,17 @@ jobs:
             const markdown = fs.readFileSync('indeed-remote-holland.md', 'utf8');
             const data = JSON.parse(fs.readFileSync('indeed-remote-holland.json', 'utf8'));
             const marker = '<!-- indeed-remote-holland-agent -->';
-            const title = `Indeed remote NL — ${data.jobCount} jobs (${new Date().toISOString().slice(0, 10)})`;
-            const top = data.jobs.slice(0, 15).map((j, i) => `${i + 1}. [${j.title}](${j.url})`).join('\n');
+            const title = `Remote NL jobs — ${data.jobCount} listings (${new Date().toISOString().slice(0, 10)})`;
+            const top = data.jobs.slice(0, 15).map((j, i) => `${i + 1}. [${j.title}](${j.url}) · _${j.source}_`).join('\n');
             const body = [
               marker,
               `## ${title}`,
               '',
               `**Query:** \`${data.query}\` · **Location:** \`${data.location}\``,
               '',
-              top || '_No jobs parsed._',
+              `[Indeed — remote in Nederland](${data.indeedSearchUrl})`,
+              '',
+              top || '_No listings from feeds._',
               '',
               data.jobCount > 15 ? `_Full list in workflow artifacts (${data.jobCount} total)._` : '',
               '',
