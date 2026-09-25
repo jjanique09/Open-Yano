@@ -1,0 +1,218 @@
+{
+  "agent": "remote-holland-jobs",
+  "searchedAt": "2026-09-25T14:59:01.081Z",
+  "query": "remote",
+  "location": "Nederland",
+  "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
+  "sourcesUsed": [
+    "jobicy:25",
+    "remoteok:25",
+    "remotive:19",
+    "indeed:search-link-only (no scrape key)"
+  ],
+  "errors": [],
+  "jobCount": 25,
+  "jobs": [
+    {
+      "title": "Senior Data Scientist, Product",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/151640-senior-data-scientist-product",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Enterprise Account Executive - DACH",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/151627-enterprise-account-executive-dach",
+      "source": "jobicy",
+      "location": "Austria,  Belgium,  Czechia,  France,  Germany,  Hungary,  Ireland,  Netherlands,  Poland,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Manager, RC Capital",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/151629-engineering-manager-rc-capital",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Commercial Account Executive - Benelux",
+      "company": "Chainguard",
+      "url": "https://jobicy.com/jobs/151547-commercial-account-executive-benelux",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Product Manager, Funnels/Workflow",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/151545-senior-product-manager-funnels-workflow",
+      "source": "jobicy",
+      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Director, Strategic Partner Sales",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/151440-director-strategic-partner-sales",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Backend Software Engineer (Observability)",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/147408-senior-backend-software-engineer-observability",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Lifecycle Senior Specialist (OHS): Contract Management",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/151449-lifecycle-senior-specialist-ohs-contract-management",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Global Payroll Implementation Country Lead - Germany",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/151448-global-payroll-implementation-country-lead-germany",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Specialist, Global Benefits Risk & Compliance",
+      "company": "Remote",
+      "url": "https://jobicy.com/jobs/151447-senior-specialist-global-benefits-risk-compliance",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Solutions Architect - MENA",
+      "company": "Deepgram",
+      "url": "https://jobicy.com/jobs/151446-solutions-architect-mena",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Lead Creative Producer",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/151441-lead-creative-producer",
+      "source": "jobicy",
+      "location": "Europe,  Türkiye",
+      "remoteHint": false
+    },
+    {
+      "title": "Account Executive",
+      "company": "Enode",
+      "url": "https://jobicy.com/jobs/151443-account-executive-11",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Security Platform Engineer",
+      "company": "Sporty Group",
+      "url": "https://jobicy.com/jobs/151442-security-platform-engineer",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Strategic Account Executive - Based in London or Home Counties",
+      "company": "EDB",
+      "url": "https://jobicy.com/jobs/147425-strategic-account-executive-based-in-london-or-home-counties",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Staff Software Engineer - Curated Data",
+      "company": "Dune",
+      "url": "https://jobicy.com/jobs/154051-staff-software-engineer-curated-data",
+      "source": "jobicy",
+      "location": "Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Full-Stack Engineer (Front-End Leaning)",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning",
+      "source": "jobicy",
+      "location": "Bulgaria,  Ireland,  Netherlands,  Poland,  Portugal,  Sweden,  UK,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Strategic Implementation Specialist - EMEA",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/154019-senior-strategic-implementation-specialist-emea",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Full-Stack Engineer (Back-End Leaning)",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
+      "source": "jobicy",
+      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Full-Stack Engineer",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
+      "source": "jobicy",
+      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Spain,  UK,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Freelance - Spanish Data Annotation Specialist (100% Remote within Europe)",
+      "company": "Docplanner",
+      "url": "https://jobicy.com/jobs/154012-freelance-spanish-data-annotation-specialist-100-remote-within-europe",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": true
+    },
+    {
+      "title": "Engineering Manager - MLOps & Analytics",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Junior Linux Kernel Engineer - Ubuntu",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Support Engineering Manager",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149554-support-engineering-manager",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Security Software Engineer",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149550-security-software-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    }
+  ],
+  "summary": "Collected 25 remote/Holland-oriented listings (Jobicy NL feed + public boards). Open Indeed for more: https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date"
+}
