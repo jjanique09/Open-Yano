@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-10-02T13:53:29.110Z · **Jobs:** 25
+**Updated:** 2026-10-05T16:03:44.510Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
 **Sources:** jobicy:25, remoteok:25, remotive:17, indeed:search-link-only (no scrape key)
 
-## 1. Production Manager (Arabic speaking)
-- **Company:** Elevenlabs
-- **Location:** Europe,  UAE
+## 1. Senior Software Engineer, Internal Tooling
+- **Company:** RevenueCat
+- **Location:** APAC,  EMEA,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154402-production-manager-arabic-speaking
+- **URL:** https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling
 
-## 2. AI Science Writer, Nebius Academy (Contract)
-- **Company:** Nebius
+## 2. Senior SDK Engineer
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154563-senior-sdk-engineer
+
+## 3. Engineering Manager
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154552-engineering-manager-9
+
+## 4. Partnerships Manager, Ecosystem
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154555-partnerships-manager-ecosystem
+
+## 5. Lead Full Stack Engineer (Laravel, Remote NL/UK Based)
+- **Company:** Workwize
+- **Location:** Netherlands,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154536-lead-full-stack-engineer-laravel-remote-nl-uk-based
+
+## 6. External Contractor - Mentor role for Data Product Manager track
+- **Company:** Udacity
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154527-external-contractor-mentor-role-for-data-product-manager-track
+
+## 7. Customer Success Manager | Sustainability | Fashion Supply Chains
+- **Company:** Worldly
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154397-ai-science-writer-nebius-academy-contract
+- **URL:** https://jobicy.com/jobs/152518-customer-success-manager-sustainability-fashion-supply-chains
 
-## 3. Customer Engineer EMEA
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154406-customer-engineer-emea
-
-## 4. Automation Engineer (Customer Service)
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154401-automation-engineer-customer-service
-
-## 5. Sales Account Executive (MENA Region)
-- **Company:** AppSamurai
+## 8. C, Golang Software Engineer working on dqlite, a Raft extension for SQLite
+- **Company:** Canonical
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152353-sales-account-executive-mena-region
+- **URL:** https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite
 
-## 6. Senior 2D Artist
-- **Company:** Playson
-- **Location:** Europe
+## 9. Senior Software Engineer - MAAS
+- **Company:** Canonical
+- **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152350-senior-2d-artist
+- **URL:** https://jobicy.com/jobs/150127-senior-software-engineer-maas
 
-## 7. Engineering Project Manager
-- **Company:** CodePath
-- **Location:** LATAM,  Canada,  Europe,  USA
+## 10. Engineering Manager - Python and K8s
+- **Company:** Canonical
+- **Location:** APAC,  EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152275-engineering-project-manager
+- **URL:** https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
 
-## 8. Staff Software Engineer
-- **Company:** CodePath
-- **Location:** LATAM,  Canada,  Europe,  USA
+## 11. Talent Scientist - Graduate Lead
+- **Company:** Canonical
+- **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152299-staff-software-engineer-5
+- **URL:** https://jobicy.com/jobs/150122-talent-scientist-graduate-lead
 
-## 9. Product Lead - Experience
-- **Company:** Enode
-- **Location:** Europe,  Norway
+## 12. Senior Software Engineer (Backend)
+- **Company:** Canonical
+- **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/148057-product-lead-experience
+- **URL:** https://jobicy.com/jobs/150125-senior-software-engineer-backend
 
-## 10. Senior Software Engineer (AI CICD)
-- **Company:** Chainguard
-- **Location:** Europe,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149855-senior-software-engineer-ai-cicd
-
-## 11. Frontend Engineering Team Lead - MarTech
-- **Company:** Sporty Group
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech
-
-## 12. Senior Technical Project Manager - Token Factory
+## 13. Field Technical Lead – Data Center Deployments
 - **Company:** Nebius
-- **Location:** Europe,  UK
+- **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149868-senior-technical-project-manager-token-factory
+- **URL:** https://jobicy.com/jobs/150136-field-technical-lead-data-center-deployments
 
-## 13. Network Planning Technical Project Manager
+## 14. Software Engineer in Network Infrastructure
 - **Company:** Nebius
 - **Location:** Europe,  Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149858-network-planning-technical-project-manager
+- **URL:** https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure
 
-## 14. Technical Program Manager, Data Centers
+## 15. Site Reliability Engineer in Network Infrastructure
 - **Company:** Nebius
 - **Location:** Europe,  Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/148058-technical-program-manager-data-centers
+- **URL:** https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure
 
-## 15. Technical Program Manager - Compute Systems Engineering
-- **Company:** Nebius
-- **Location:** Europe,  Netherlands,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149859-technical-program-manager-compute-systems-engineering
-
-## 16. Developer Advocate - Service Management EMEA
-- **Company:** Datadog
-- **Location:** France,  Netherlands,  Spain
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154340-developer-advocate-service-management-emea
-
-## 17. Senior Clinical Product Lead | 100% Remote within Europe
-- **Company:** Docplanner
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154341-senior-clinical-product-lead-100-remote-within-europe
-
-## 18. Mid Market Account Executive - DACH
-- **Company:** Samsara
-- **Location:** Germany,  Netherlands,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154339-mid-market-account-executive-dach
-
-## 19. Matching Operations Coordinator
-- **Company:** Toptal
-- **Location:** LATAM,  Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152191-matching-operations-coordinator
-
-## 20. Growth Marketing Manager, Foundry
-- **Company:** Instructure
-- **Location:** Australia,  Brazil,  China,  Germany,  Hong Kong,  Hungary,  Mexico,  Netherlands,  Norway,  Philippines,  Spain,  Sweden,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152189-growth-marketing-manager-foundry
-
-## 21. Account Director, Public Sector (DACH)
-- **Company:** TRM Labs
+## 16. Revenue Accountant
+- **Company:** Canonical
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152152-account-director-public-sector-dach
+- **URL:** https://jobicy.com/jobs/150126-revenue-accountant
 
-## 22. Azure DevOps Engineer | KD Pharma
-- **Company:** GT
-- **Location:** Europe
+## 17. Senior Web Engineer
+- **Company:** Canonical
+- **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152146-azure-devops-engineer-kd-pharma
+- **URL:** https://jobicy.com/jobs/150123-senior-web-engineer
 
-## 23. Manager, Global Talent Acquisition
-- **Company:** Cloudbeds
-- **Location:** LATAM,  Europe,  USA
+## 18. Senior Full Stack Engineer
+- **Company:** Fueled
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152159-manager-global-talent-acquisition
+- **URL:** https://jobicy.com/jobs/152547-senior-full-stack-engineer
 
-## 24. Enterprise Account Executive (UK/EU)
-- **Company:** Nash
-- **Location:** Europe,  UK
+## 19. Senior Software Engineer, Frontend
+- **Company:** Phantom
+- **Location:** LATAM,  Canada,  Europe,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154283-enterprise-account-executive-uk-eu
+- **URL:** https://jobicy.com/jobs/152539-senior-software-engineer-frontend
 
-## 25. Enterprise Account Executive, DACH & Nordics
-- **Company:** Ada
-- **Location:** Austria,  Germany,  Netherlands,  UK
+## 20. Senior Hypervisor Engineer
+- **Company:** Nebius
+- **Location:** Czechia,  Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154286-enterprise-account-executive-dach-nordics
+- **URL:** https://jobicy.com/jobs/150137-senior-hypervisor-engineer
+
+## 21. Account Manager, Supply Chain ESG
+- **Company:** Worldly
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152502-account-manager-supply-chain-esg
+
+## 22. Solutions Architect for Automotive
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154514-solutions-architect-for-automotive
+
+## 23. Large Enterprise Account Executive
+- **Company:** Dandy
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154497-large-enterprise-account-executive
+
+## 24. Open Source Enterprise Sales / Alliances
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances
+
+## 25. Platform Engineer
+- **Company:** Catawiki
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154501-platform-engineer-2

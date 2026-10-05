@@ -1,6 +1,6 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-10-02T13:53:29.110Z",
+  "searchedAt": "2026-10-05T16:03:44.510Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
@@ -14,203 +14,203 @@
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Production Manager (Arabic speaking)",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/154402-production-manager-arabic-speaking",
+      "title": "Senior Software Engineer, Internal Tooling",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/154567-senior-software-engineer-internal-tooling",
       "source": "jobicy",
-      "location": "Europe,  UAE",
+      "location": "APAC,  EMEA,  USA",
       "remoteHint": false
     },
     {
-      "title": "AI Science Writer, Nebius Academy (Contract)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/154397-ai-science-writer-nebius-academy-contract",
+      "title": "Senior SDK Engineer",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/154563-senior-sdk-engineer",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "EMEA,  LATAM,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Customer Engineer EMEA",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/154406-customer-engineer-emea",
+      "title": "Engineering Manager",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/154552-engineering-manager-9",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Automation Engineer (Customer Service)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
+      "title": "Partnerships Manager, Ecosystem",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/154555-partnerships-manager-ecosystem",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Sales Account Executive (MENA Region)",
-      "company": "AppSamurai",
-      "url": "https://jobicy.com/jobs/152353-sales-account-executive-mena-region",
+      "title": "Lead Full Stack Engineer (Laravel, Remote NL/UK Based)",
+      "company": "Workwize",
+      "url": "https://jobicy.com/jobs/154536-lead-full-stack-engineer-laravel-remote-nl-uk-based",
       "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior 2D Artist",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/152350-senior-2d-artist",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Engineering Project Manager",
-      "company": "CodePath",
-      "url": "https://jobicy.com/jobs/152275-engineering-project-manager",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Software Engineer",
-      "company": "CodePath",
-      "url": "https://jobicy.com/jobs/152299-staff-software-engineer-5",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Product Lead - Experience",
-      "company": "Enode",
-      "url": "https://jobicy.com/jobs/148057-product-lead-experience",
-      "source": "jobicy",
-      "location": "Europe,  Norway",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Software Engineer (AI CICD)",
-      "company": "Chainguard",
-      "url": "https://jobicy.com/jobs/149855-senior-software-engineer-ai-cicd",
-      "source": "jobicy",
-      "location": "Europe,  UK,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Frontend Engineering Team Lead - MarTech",
-      "company": "Sporty Group",
-      "url": "https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Technical Project Manager - Token Factory",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/149868-senior-technical-project-manager-token-factory",
-      "source": "jobicy",
-      "location": "Europe,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Network Planning Technical Project Manager",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/149858-network-planning-technical-project-manager",
-      "source": "jobicy",
-      "location": "Europe,  Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Technical Program Manager, Data Centers",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/148058-technical-program-manager-data-centers",
-      "source": "jobicy",
-      "location": "Europe,  Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Technical Program Manager - Compute Systems Engineering",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/149859-technical-program-manager-compute-systems-engineering",
-      "source": "jobicy",
-      "location": "Europe,  Netherlands,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Developer Advocate - Service Management EMEA",
-      "company": "Datadog",
-      "url": "https://jobicy.com/jobs/154340-developer-advocate-service-management-emea",
-      "source": "jobicy",
-      "location": "France,  Netherlands,  Spain",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Clinical Product Lead | 100% Remote within Europe",
-      "company": "Docplanner",
-      "url": "https://jobicy.com/jobs/154341-senior-clinical-product-lead-100-remote-within-europe",
-      "source": "jobicy",
-      "location": "Europe",
+      "location": "Netherlands,  UK",
       "remoteHint": true
     },
     {
-      "title": "Mid Market Account Executive - DACH",
-      "company": "Samsara",
-      "url": "https://jobicy.com/jobs/154339-mid-market-account-executive-dach",
+      "title": "External Contractor - Mentor role for Data Product Manager track",
+      "company": "Udacity",
+      "url": "https://jobicy.com/jobs/154527-external-contractor-mentor-role-for-data-product-manager-track",
       "source": "jobicy",
-      "location": "Germany,  Netherlands,  UK",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Matching Operations Coordinator",
-      "company": "Toptal",
-      "url": "https://jobicy.com/jobs/152191-matching-operations-coordinator",
-      "source": "jobicy",
-      "location": "LATAM,  Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Growth Marketing Manager, Foundry",
-      "company": "Instructure",
-      "url": "https://jobicy.com/jobs/152189-growth-marketing-manager-foundry",
-      "source": "jobicy",
-      "location": "Australia,  Brazil,  China,  Germany,  Hong Kong,  Hungary,  Mexico,  Netherlands,  Norway,  Philippines,  Spain,  Sweden,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Account Director, Public Sector (DACH)",
-      "company": "TRM Labs",
-      "url": "https://jobicy.com/jobs/152152-account-director-public-sector-dach",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Azure DevOps Engineer | KD Pharma",
-      "company": "GT",
-      "url": "https://jobicy.com/jobs/152146-azure-devops-engineer-kd-pharma",
+      "title": "Customer Success Manager | Sustainability | Fashion Supply Chains",
+      "company": "Worldly",
+      "url": "https://jobicy.com/jobs/152518-customer-success-manager-sustainability-fashion-supply-chains",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Manager, Global Talent Acquisition",
-      "company": "Cloudbeds",
-      "url": "https://jobicy.com/jobs/152159-manager-global-talent-acquisition",
+      "title": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
       "source": "jobicy",
-      "location": "LATAM,  Europe,  USA",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Enterprise Account Executive (UK/EU)",
-      "company": "Nash",
-      "url": "https://jobicy.com/jobs/154283-enterprise-account-executive-uk-eu",
+      "title": "Senior Software Engineer - MAAS",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
       "source": "jobicy",
-      "location": "Europe,  UK",
+      "location": "EMEA,  LATAM,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Enterprise Account Executive, DACH & Nordics",
-      "company": "Ada",
-      "url": "https://jobicy.com/jobs/154286-enterprise-account-executive-dach-nordics",
+      "title": "Engineering Manager - Python and K8s",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
       "source": "jobicy",
-      "location": "Austria,  Germany,  Netherlands,  UK",
+      "location": "APAC,  EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Talent Scientist - Graduate Lead",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150122-talent-scientist-graduate-lead",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Software Engineer (Backend)",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Field Technical Lead – Data Center Deployments",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/150136-field-technical-lead-data-center-deployments",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Software Engineer in Network Infrastructure",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
+      "source": "jobicy",
+      "location": "Europe,  Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Site Reliability Engineer in Network Infrastructure",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure",
+      "source": "jobicy",
+      "location": "Europe,  Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Revenue Accountant",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150126-revenue-accountant",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Web Engineer",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/152547-senior-full-stack-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Software Engineer, Frontend",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
+      "source": "jobicy",
+      "location": "LATAM,  Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Hypervisor Engineer",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
+      "source": "jobicy",
+      "location": "Czechia,  Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Account Manager, Supply Chain ESG",
+      "company": "Worldly",
+      "url": "https://jobicy.com/jobs/152502-account-manager-supply-chain-esg",
+      "source": "jobicy",
+      "location": "Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Solutions Architect for Automotive",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Large Enterprise Account Executive",
+      "company": "Dandy",
+      "url": "https://jobicy.com/jobs/154497-large-enterprise-account-executive",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Open Source Enterprise Sales / Alliances",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Platform Engineer",
+      "company": "Catawiki",
+      "url": "https://jobicy.com/jobs/154501-platform-engineer-2",
+      "source": "jobicy",
+      "location": "Anywhere",
       "remoteHint": false
     }
   ],
