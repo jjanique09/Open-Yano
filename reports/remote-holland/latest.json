@@ -1,6 +1,6 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-10-05T16:03:44.510Z",
+  "searchedAt": "2026-10-07T14:32:27.116Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
@@ -13,6 +13,158 @@
   "errors": [],
   "jobCount": 25,
   "jobs": [
+    {
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "company": "Flex",
+      "url": "https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Strategic Customer Success Manager, EMEA",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/147411-strategic-customer-success-manager-emea-2",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Accounts Payable Clerk (Entry Level Opportunity)",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/148299-accounts-payable-clerk-entry-level-opportunity-2",
+      "source": "jobicy",
+      "location": "EMEA,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Accounts Payable Clerk (Entry Level Opportunity)",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/145235-accounts-payable-clerk-entry-level-opportunity",
+      "source": "jobicy",
+      "location": "EMEA,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Sales Engineer, Enterprise - German Speaking",
+      "company": "Fivetran",
+      "url": "https://jobicy.com/jobs/148110-senior-sales-engineer-enterprise-german-speaking",
+      "source": "jobicy",
+      "location": "EMEA,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior ML Engineer (Token Factory)",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/148667-senior-ml-engineer-token-factory",
+      "source": "jobicy",
+      "location": "Czechia,  Europe,  Germany,  Israel,  Netherlands,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Global Director, Mid-Market Onboarding",
+      "company": "Cloudbeds",
+      "url": "https://jobicy.com/jobs/148660-global-director-mid-market-onboarding",
+      "source": "jobicy",
+      "location": "Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "CRM Marketing Intern",
+      "company": "Catawiki",
+      "url": "https://jobicy.com/jobs/154706-crm-marketing-intern",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Commercial, Post-War Art & Prints Intern",
+      "company": "Catawiki",
+      "url": "https://jobicy.com/jobs/154701-commercial-post-war-art-prints-intern",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Application Security Engineer",
+      "company": "Beyond Finance",
+      "url": "https://jobicy.com/jobs/154682-senior-application-security-engineer-3",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Payment Operations Associate",
+      "company": "Beyond Finance",
+      "url": "https://jobicy.com/jobs/154679-payment-operations-associate",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Lead Product Management",
+      "company": "Carrot",
+      "url": "https://jobicy.com/jobs/154674-lead-product-management",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
+      "company": "Spire",
+      "url": "https://jobicy.com/jobs/152611-sales-manager-weather-climate-emea-apac-2",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Global Specialized Domain Expert Recruiter (Contractor)",
+      "company": "Labelbox",
+      "url": "https://jobicy.com/jobs/152587-global-specialized-domain-expert-recruiter-contractor",
+      "source": "jobicy",
+      "location": "LATAM,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Solution Engineer",
+      "company": "RelationalAI",
+      "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior CRO Designer, Paywalls and Funnels",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/154654-senior-cro-designer-paywalls-and-funnels",
+      "source": "jobicy",
+      "location": "APAC,  EMEA,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Product Manager, Analytics Features",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/154650-senior-product-manager-analytics-features",
+      "source": "jobicy",
+      "location": "EMEA,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Partnership and Business Development Manager (UK & EMEA)",
+      "company": "AppSamurai",
+      "url": "https://jobicy.com/jobs/154653-partnership-and-business-development-manager-uk-emea",
+      "source": "jobicy",
+      "location": "EMEA,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Partner Engineer",
+      "company": "Contentstack",
+      "url": "https://jobicy.com/jobs/154638-partner-engineer",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
     {
       "title": "Senior Software Engineer, Internal Tooling",
       "company": "RevenueCat",
@@ -57,158 +209,6 @@
       "title": "External Contractor - Mentor role for Data Product Manager track",
       "company": "Udacity",
       "url": "https://jobicy.com/jobs/154527-external-contractor-mentor-role-for-data-product-manager-track",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Customer Success Manager | Sustainability | Fashion Supply Chains",
-      "company": "Worldly",
-      "url": "https://jobicy.com/jobs/152518-customer-success-manager-sustainability-fashion-supply-chains",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Software Engineer - MAAS",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
-      "source": "jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "source": "jobicy",
-      "location": "APAC,  EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Talent Scientist - Graduate Lead",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150122-talent-scientist-graduate-lead",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Software Engineer (Backend)",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Field Technical Lead – Data Center Deployments",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/150136-field-technical-lead-data-center-deployments",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Software Engineer in Network Infrastructure",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/150131-software-engineer-in-network-infrastructure",
-      "source": "jobicy",
-      "location": "Europe,  Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Site Reliability Engineer in Network Infrastructure",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/150130-site-reliability-engineer-in-network-infrastructure",
-      "source": "jobicy",
-      "location": "Europe,  Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Revenue Accountant",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150126-revenue-accountant",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Web Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "company": "Fueled",
-      "url": "https://jobicy.com/jobs/152547-senior-full-stack-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Software Engineer, Frontend",
-      "company": "Phantom",
-      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Hypervisor Engineer",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/150137-senior-hypervisor-engineer",
-      "source": "jobicy",
-      "location": "Czechia,  Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Account Manager, Supply Chain ESG",
-      "company": "Worldly",
-      "url": "https://jobicy.com/jobs/152502-account-manager-supply-chain-esg",
-      "source": "jobicy",
-      "location": "Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Solutions Architect for Automotive",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/154514-solutions-architect-for-automotive",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Large Enterprise Account Executive",
-      "company": "Dandy",
-      "url": "https://jobicy.com/jobs/154497-large-enterprise-account-executive",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Open Source Enterprise Sales / Alliances",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Platform Engineer",
-      "company": "Catawiki",
-      "url": "https://jobicy.com/jobs/154501-platform-engineer-2",
       "source": "jobicy",
       "location": "Anywhere",
       "remoteHint": false
