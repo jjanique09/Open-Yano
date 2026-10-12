@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-10-09T14:23:29.682Z · **Jobs:** 25
+**Updated:** 2026-10-12T16:45:17.465Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
-**Sources:** jobicy:25, remoteok:25, remotive:17, indeed:search-link-only (no scrape key)
+**Sources:** jobicy:25, remoteok:25, remotive:15, indeed:search-link-only (no scrape key)
 
-## 1. Accounting Automation Engineer
-- **Company:** Ruby Labs
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154905-accounting-automation-engineer
-
-## 2. Manager of Implementations, High Touch - EMEA
-- **Company:** Ashby
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154897-manager-of-implementations-high-touch-emea
-
-## 3. Product Support Engineer - EMEA
-- **Company:** Ashby
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154903-product-support-engineer-emea
-
-## 4. Account Executive (EMEA)
-- **Company:** Supabase
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152816-account-executive-emea-2
-
-## 5. Support Engineer (EMEA - Weekends)
-- **Company:** Supabase
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152811-support-engineer-emea-weekends
-
-## 6. International Audio/Video Remote Georgian Interpreter
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152792-international-audio-video-remote-georgian-interpreter
-
-## 7. International Audio/Video Remote Burmese and Karen Interpreter
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152785-international-audio-video-remote-burmese-and-karen-interpreter
-
-## 8. Marketing Manager
-- **Company:** Canonical
-- **Location:** EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/148814-marketing-manager
-
-## 9. QA Engineer (Anywhere in Europe)
-- **Company:** PadSplit
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe
-
-## 10. Senior Security Engineer, Identity and Access Management
-- **Company:** HackerOne
-- **Location:** Netherlands,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management
-
-## 11. Senior / Staff Threat Intelligence Analyst, Hacks
+## 1. Business Development Executive, Financial Institutions (EMEA)
 - **Company:** TRM Labs
-- **Location:** EMEA,  Singapore,  South Korea,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks
-
-## 12. Engineering - Internal AI Transformation
-- **Company:** Elevenlabs
-- **Location:** Bulgaria,  Canada,  Germany,  Ireland,  Italy,  Netherlands,  Poland,  Portugal,  Sweden,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154817-engineering-internal-ai-transformation
-
-## 13. Full-Stack Engineer (Back-End Leaning)
-- **Company:** Elevenlabs
-- **Location:** Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning
-
-## 14. Senior Backend Engineer (Core Team)
-- **Company:** Playson
-- **Location:** Europe,  Ukraine
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
-
-## 15. GZ-psycholoog
-- **Company:** BetterHelp
-- **Location:** Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152698-gz-psycholoog
-
-## 16. Product Engineer (Full Stack)
-- **Company:** Maze
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/151461-product-engineer-full-stack
+- **URL:** https://jobicy.com/jobs/155139-business-development-executive-financial-institutions-emea
 
-## 17. Alliances & Channels Leader
-- **Company:** Canonical
-- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/148714-alliances-channels-leader
-
-## 18. Engineering Manager - Linux Hardware Enablement
-- **Company:** Canonical
-- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement
-
-## 19. Fullstack Software Engineer - Core
-- **Company:** Dataiku
-- **Location:** France,  Germany,  Netherlands,  Spain,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152707-fullstack-software-engineer-core
-
-## 20. Integratief Counselor
-- **Company:** BetterHelp
+## 2. Commercial Account Executive - Benelux
+- **Company:** Chainguard
 - **Location:** Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152702-integratief-counselor
+- **URL:** https://jobicy.com/jobs/155138-commercial-account-executive-benelux-2
 
-## 21. Devices & IOT Field Engineering Manager
-- **Company:** Canonical
+## 3. German-speaking Performance Marketing Lead
+- **Company:** saas.group
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155108-german-speaking-performance-marketing-lead
+
+## 4. Content Lead
+- **Company:** saas.group
 - **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas
+- **URL:** https://jobicy.com/jobs/155104-content-lead
 
-## 22. Senior Product Designer, Design Systems
-- **Company:** DuckDuckGo
-- **Location:** Anywhere
+## 5. Senior Customer Success Manager
+- **Company:** saas.group
+- **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154773-senior-product-designer-design-systems
+- **URL:** https://jobicy.com/jobs/155113-senior-customer-success-manager-19
 
-## 23. Senior Software Development Engineer in Test (SDET)
-- **Company:** Flex
-- **Location:** Anywhere
+## 6. Customer Success Manager
+- **Company:** Customer.io
+- **Location:** APAC,  EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154770-senior-software-development-engineer-in-test-sdet
+- **URL:** https://jobicy.com/jobs/155082-customer-success-manager-36
 
-## 24. Strategic Customer Success Manager, EMEA
+## 7. Delivery Operations Manager - Token Factory
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155076-delivery-operations-manager-token-factory
+
+## 8. Data Center - Supply Chain Manager (EMEA)
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155072-data-center-supply-chain-manager-emea
+
+## 9. Senior Pre-Sales Solutions Engineer - Europe
+- **Company:** Deepgram
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155068-senior-pre-sales-solutions-engineer-europe
+
+## 10. Product Support Specialist - EMEA
 - **Company:** Ashby
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/147411-strategic-customer-success-manager-emea-2
+- **URL:** https://jobicy.com/jobs/153069-product-support-specialist-emea
 
-## 25. Accounts Payable Clerk (Entry Level Opportunity)
-- **Company:** Canonical
+## 11. Staff Machine Learning Engineer, Ads Foundational Representations
+- **Company:** Reddit
+- **Location:** Netherlands,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations
+
+## 12. Trust and Safety Policy, Ads Policy, Lead (Europe)
+- **Company:** Reddit
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155057-trust-and-safety-policy-ads-policy-lead-europe
+
+## 13. Product Engineering
+- **Company:** Polar
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155050-product-engineering
+
+## 14. Platform Engineering
+- **Company:** Polar
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155048-platform-engineering
+
+## 15. Compliance Analyst / Senior Compliance Analyst (Special Investigations)
+- **Company:** OKX
+- **Location:** APAC,  EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155031-compliance-analyst-senior-compliance-analyst-special-investigations
+
+## 16. Head of Growth & Product
+- **Company:** saas.group
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155026-head-of-growth-product
+
+## 17. Solutions Consultant, Digital Assets
+- **Company:** CertiK
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155020-solutions-consultant-digital-assets
+
+## 18. Staff Security Engineer, Incident Response
+- **Company:** Databricks
+- **Location:** Belgium,  Denmark,  Finland,  France,  Germany,  Italy,  Netherlands,  Spain,  Sweden,  Switzerland,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155021-staff-security-engineer-incident-response
+
+## 19. AI Lead / Engineering Manager
+- **Company:** saas.group
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155019-ai-lead-engineering-manager
+
+## 20. Software Architect
+- **Company:** Autodesk
 - **Location:** EMEA,  UK
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/148299-accounts-payable-clerk-entry-level-opportunity-2
+- **URL:** https://jobicy.com/jobs/150381-software-architect
+
+## 21. Staff Research Engineer - Interactive Avatars
+- **Company:** Synthesia
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152977-staff-research-engineer-interactive-avatars
+
+## 22. Research Engineer in Data
+- **Company:** Synthesia
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152972-research-engineer-in-data
+
+## 23. IT Associate
+- **Company:** Softgic
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/145745-it-associate
+
+## 24. Talent Acquisition Strategist
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150357-talent-acquisition-strategist
+
+## 25. Senior Brand Designer, Experiential
+- **Company:** Synthesia
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152993-senior-brand-designer-experiential
