@@ -1,6 +1,6 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-10-12T16:45:17.465Z",
+  "searchedAt": "2026-10-14T12:53:56.855Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
@@ -13,6 +13,174 @@
   "errors": [],
   "jobCount": 25,
   "jobs": [
+    {
+      "title": "Senior Sales Engineer",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/153225-senior-sales-engineer-2",
+      "source": "jobicy",
+      "location": "Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Travel Consultant",
+      "company": "BCD Travel",
+      "url": "https://jobicy.com/jobs/150573-travel-consultant-2",
+      "source": "jobicy",
+      "location": "Denmark,  Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Expert Comics - Tintin & Dutch Traditional Comics",
+      "company": "Catawiki",
+      "url": "https://jobicy.com/jobs/155245-expert-comics-tintin-dutch-traditional-comics",
+      "source": "jobicy",
+      "location": "Belgium,  France,  Italy,  Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Commercial Operations Project Manager (Trust Operations Excellence)",
+      "company": "Catawiki",
+      "url": "https://jobicy.com/jobs/155242-commercial-operations-project-manager-trust-operations-excellence",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Sales & Operations Specialist, RC Capital",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/155244-sales-operations-specialist-rc-capital",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Data Analyst",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/155241-data-analyst-4",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Research Scientist - Generative Audio",
+      "company": "Spotify",
+      "url": "https://jobicy.com/jobs/155214-research-scientist-generative-audio",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Video Editor",
+      "company": "Kalshi",
+      "url": "https://jobicy.com/jobs/155198-video-editor",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Director, Solutions Architecture EMEA",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/155174-director-solutions-architecture-emea",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Detection & Response Engineer",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/155169-detection-response-engineer",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Detection & Response Lead",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/155171-detection-response-lead",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Compliance Engineer Intern",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/153136-compliance-engineer-intern",
+      "source": "jobicy",
+      "location": "APAC,  Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Compliance Engineer",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/153132-compliance-engineer",
+      "source": "jobicy",
+      "location": "APAC,  Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "QA Automation Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "url": "https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Staff DevOps Engineer (Platform)",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/153130-staff-devops-engineer-platform",
+      "source": "jobicy",
+      "location": "Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Staff Software Engineer (SRE)",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/153134-staff-software-engineer-sre",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "AI Enablement Lead [gn] Data Intelligence",
+      "company": "Actian",
+      "url": "https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Offensive Security Engineer",
+      "company": "Sporty Group",
+      "url": "https://jobicy.com/jobs/149060-offensive-security-engineer",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Compliance Engineer",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/155157-compliance-engineer-2",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior 2D Animator",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/155155-senior-2d-animator",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Content Manager",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/155156-content-manager",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
     {
       "title": "Business Development Executive, Financial Institutions (EMEA)",
       "company": "TRM Labs",
@@ -43,174 +211,6 @@
       "url": "https://jobicy.com/jobs/155104-content-lead",
       "source": "jobicy",
       "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Customer Success Manager",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/155113-senior-customer-success-manager-19",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Customer.io",
-      "url": "https://jobicy.com/jobs/155082-customer-success-manager-36",
-      "source": "jobicy",
-      "location": "APAC,  EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Delivery Operations Manager - Token Factory",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155076-delivery-operations-manager-token-factory",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Data Center - Supply Chain Manager (EMEA)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155072-data-center-supply-chain-manager-emea",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Pre-Sales Solutions Engineer - Europe",
-      "company": "Deepgram",
-      "url": "https://jobicy.com/jobs/155068-senior-pre-sales-solutions-engineer-europe",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Product Support Specialist - EMEA",
-      "company": "Ashby",
-      "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
-      "source": "jobicy",
-      "location": "Netherlands,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Trust and Safety Policy, Ads Policy, Lead (Europe)",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/155057-trust-and-safety-policy-ads-policy-lead-europe",
-      "source": "jobicy",
-      "location": "Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Product Engineering",
-      "company": "Polar",
-      "url": "https://jobicy.com/jobs/155050-product-engineering",
-      "source": "jobicy",
-      "location": "Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Platform Engineering",
-      "company": "Polar",
-      "url": "https://jobicy.com/jobs/155048-platform-engineering",
-      "source": "jobicy",
-      "location": "Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Compliance Analyst / Senior Compliance Analyst (Special Investigations)",
-      "company": "OKX",
-      "url": "https://jobicy.com/jobs/155031-compliance-analyst-senior-compliance-analyst-special-investigations",
-      "source": "jobicy",
-      "location": "APAC,  EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Head of Growth & Product",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/155026-head-of-growth-product",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Solutions Consultant, Digital Assets",
-      "company": "CertiK",
-      "url": "https://jobicy.com/jobs/155020-solutions-consultant-digital-assets",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Security Engineer, Incident Response",
-      "company": "Databricks",
-      "url": "https://jobicy.com/jobs/155021-staff-security-engineer-incident-response",
-      "source": "jobicy",
-      "location": "Belgium,  Denmark,  Finland,  France,  Germany,  Italy,  Netherlands,  Spain,  Sweden,  Switzerland,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Lead / Engineering Manager",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/155019-ai-lead-engineering-manager",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Software Architect",
-      "company": "Autodesk",
-      "url": "https://jobicy.com/jobs/150381-software-architect",
-      "source": "jobicy",
-      "location": "EMEA,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Research Engineer - Interactive Avatars",
-      "company": "Synthesia",
-      "url": "https://jobicy.com/jobs/152977-staff-research-engineer-interactive-avatars",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Research Engineer in Data",
-      "company": "Synthesia",
-      "url": "https://jobicy.com/jobs/152972-research-engineer-in-data",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "IT Associate",
-      "company": "Softgic",
-      "url": "https://jobicy.com/jobs/145745-it-associate",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Talent Acquisition Strategist",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150357-talent-acquisition-strategist",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Brand Designer, Experiential",
-      "company": "Synthesia",
-      "url": "https://jobicy.com/jobs/152993-senior-brand-designer-experiential",
-      "source": "jobicy",
-      "location": "EMEA",
       "remoteHint": false
     }
   ],
