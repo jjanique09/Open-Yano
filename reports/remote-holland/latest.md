@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-10-14T12:53:56.855Z · **Jobs:** 25
+**Updated:** 2026-10-16T12:27:44.846Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
 **Sources:** jobicy:25, remoteok:25, remotive:15, indeed:search-link-only (no scrape key)
 
-## 1. Senior Sales Engineer
-- **Company:** RevenueCat
-- **Location:** Canada,  Europe,  USA
+## 1. Postgres Engineer
+- **Company:** Supabase
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153225-senior-sales-engineer-2
+- **URL:** https://jobicy.com/jobs/153321-postgres-engineer
 
-## 2. Travel Consultant
-- **Company:** BCD Travel
-- **Location:** Denmark,  Europe
+## 2. SVP, Product
+- **Company:** Toptal
+- **Location:** Canada,  Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150573-travel-consultant-2
+- **URL:** https://jobicy.com/jobs/153312-svp-product
 
-## 3. Expert Comics - Tintin & Dutch Traditional Comics
+## 3. Chief Technology Officer
+- **Company:** Toptal
+- **Location:** LATAM,  Canada,  Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/153308-chief-technology-officer-3
+
+## 4. AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)
+- **Company:** Udacity
+- **Location:** APAC,  EMEA,  Canada,  Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones
+
+## 5. Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)
+- **Company:** Udacity
+- **Location:** APAC,  Canada,  Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones
+
+## 6. Multigres Deployment Engineer
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/153326-multigres-deployment-engineer
+
+## 7. Engineering Manager - EU
+- **Company:** Ashby
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150687-engineering-manager-eu
+
+## 8. Mid Market Account Executive - EMEA (French Speaking)
+- **Company:** Ashby
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150688-mid-market-account-executive-emea-french-speaking
+
+## 9. Part-Time Virtual Travel Assistant & Affiliate Recruiter Management (A)
+- **Company:** The Flex
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150697-part-time-virtual-travel-assistant-affiliate-recruiter-management-a
+
+## 10. Part-time Virtual Travel Assistant (Kri)
+- **Company:** The Flex
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150700-part-time-virtual-travel-assistant-kri
+
+## 11. Site Reliability Engineer
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155391-site-reliability-engineer-4
+
+## 12. Platform Engineer, Managed Postgres
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155389-platform-engineer-managed-postgres
+
+## 13. AI Platform Engineer
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155385-ai-platform-engineer
+
+## 14. Account Development Representative - DACH
+- **Company:** Samsara
+- **Location:** France,  Germany,  Netherlands,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152463-account-development-representative-dach-2
+
+## 15. Staff Machine Learning Engineer, Ads Foundational Representations
+- **Company:** Reddit
+- **Location:** Netherlands,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations
+
+## 16. Category Manager Asian & Tribal Arts
 - **Company:** Catawiki
-- **Location:** Belgium,  France,  Italy,  Netherlands
+- **Location:** France,  Italy,  Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155245-expert-comics-tintin-dutch-traditional-comics
+- **URL:** https://jobicy.com/jobs/153255-category-manager-asian-tribal-arts
 
-## 4. Commercial Operations Project Manager (Trust Operations Excellence)
+## 17. Campaigns & Activations Specialist - Category Marketing
 - **Company:** Catawiki
 - **Location:** Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155242-commercial-operations-project-manager-trust-operations-excellence
+- **URL:** https://jobicy.com/jobs/153253-campaigns-activations-specialist-category-marketing
 
-## 5. Sales & Operations Specialist, RC Capital
-- **Company:** RevenueCat
-- **Location:** EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155244-sales-operations-specialist-rc-capital
-
-## 6. Data Analyst
-- **Company:** RevenueCat
-- **Location:** EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155241-data-analyst-4
-
-## 7. Research Scientist - Generative Audio
-- **Company:** Spotify
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155214-research-scientist-generative-audio
-
-## 8. Video Editor
-- **Company:** Kalshi
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155198-video-editor
-
-## 9. Director, Solutions Architecture EMEA
-- **Company:** Nebius
+## 18. Account Executive, EMEA
+- **Company:** Socket
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155174-director-solutions-architecture-emea
+- **URL:** https://jobicy.com/jobs/153265-account-executive-emea-3
 
-## 10. Detection & Response Engineer
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155169-detection-response-engineer
-
-## 11. Detection & Response Lead
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155171-detection-response-lead
-
-## 12. Compliance Engineer Intern
-- **Company:** CertiK
-- **Location:** APAC,  Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153136-compliance-engineer-intern
-
-## 13. Compliance Engineer
-- **Company:** CertiK
-- **Location:** APAC,  Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153132-compliance-engineer
-
-## 14. QA Automation Lead [gn] Data Intelligence
-- **Company:** Actian
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149048-qa-automation-lead-gn-data-intelligence
-
-## 15. Staff DevOps Engineer (Platform)
-- **Company:** Phantom
-- **Location:** Europe,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153130-staff-devops-engineer-platform
-
-## 16. Staff Software Engineer (SRE)
-- **Company:** Phantom
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153134-staff-software-engineer-sre
-
-## 17. AI Enablement Lead [gn] Data Intelligence
-- **Company:** Actian
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149049-ai-enablement-lead-gn-data-intelligence
-
-## 18. Offensive Security Engineer
-- **Company:** Sporty Group
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149060-offensive-security-engineer
-
-## 19. Compliance Engineer
+## 19. Senior Backend Engineer (Boosters)
 - **Company:** Playson
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155157-compliance-engineer-2
+- **URL:** https://jobicy.com/jobs/153227-senior-backend-engineer-boosters
 
-## 20. Senior 2D Animator
+## 20. Marketing Event Manager - EMEA
+- **Company:** Dandy
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/153247-marketing-event-manager-emea
+
+## 21. Principal ML Platform Engineer
+- **Company:** Synthesia
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/153242-principal-ml-platform-engineer
+
+## 22. Senior Integration Engineer
 - **Company:** Playson
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155155-senior-2d-animator
+- **URL:** https://jobicy.com/jobs/153232-senior-integration-engineer
 
-## 21. Content Manager
+## 23. Senior Legal Counsel
 - **Company:** Playson
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155156-content-manager
+- **URL:** https://jobicy.com/jobs/153231-senior-legal-counsel-3
 
-## 22. Business Development Executive, Financial Institutions (EMEA)
-- **Company:** TRM Labs
+## 24. Marketing Designer
+- **Company:** Playson
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155139-business-development-executive-financial-institutions-emea
+- **URL:** https://jobicy.com/jobs/153230-marketing-designer
 
-## 23. Commercial Account Executive - Benelux
-- **Company:** Chainguard
-- **Location:** Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155138-commercial-account-executive-benelux-2
-
-## 24. German-speaking Performance Marketing Lead
-- **Company:** saas.group
+## 25. Senior Game Mathematician
+- **Company:** Playson
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155108-german-speaking-performance-marketing-lead
-
-## 25. Content Lead
-- **Company:** saas.group
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155104-content-lead
+- **URL:** https://jobicy.com/jobs/153229-senior-game-mathematician
