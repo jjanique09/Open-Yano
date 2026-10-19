@@ -1,216 +1,216 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-10-16T12:27:44.846Z",
+  "searchedAt": "2026-10-19T14:42:15.007Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
   "sourcesUsed": [
     "jobicy:25",
     "remoteok:25",
-    "remotive:15",
+    "remotive:12",
     "indeed:search-link-only (no scrape key)"
   ],
   "errors": [],
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Postgres Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/153321-postgres-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "SVP, Product",
-      "company": "Toptal",
-      "url": "https://jobicy.com/jobs/153312-svp-product",
-      "source": "jobicy",
-      "location": "Canada,  Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Chief Technology Officer",
-      "company": "Toptal",
-      "url": "https://jobicy.com/jobs/153308-chief-technology-officer-3",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
-      "company": "Udacity",
-      "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
-      "source": "jobicy",
-      "location": "APAC,  EMEA,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Agentic AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
-      "company": "Udacity",
-      "url": "https://jobicy.com/jobs/150763-agentic-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
-      "source": "jobicy",
-      "location": "APAC,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Multigres Deployment Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/153326-multigres-deployment-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Engineering Manager - EU",
-      "company": "Ashby",
-      "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Mid Market Account Executive - EMEA (French Speaking)",
-      "company": "Ashby",
-      "url": "https://jobicy.com/jobs/150688-mid-market-account-executive-emea-french-speaking",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management (A)",
-      "company": "The Flex",
-      "url": "https://jobicy.com/jobs/150697-part-time-virtual-travel-assistant-affiliate-recruiter-management-a",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Part-time Virtual Travel Assistant (Kri)",
-      "company": "The Flex",
-      "url": "https://jobicy.com/jobs/150700-part-time-virtual-travel-assistant-kri",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/155391-site-reliability-engineer-4",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Platform Engineer, Managed Postgres",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/155389-platform-engineer-managed-postgres",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Platform Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/155385-ai-platform-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Account Development Representative - DACH",
-      "company": "Samsara",
-      "url": "https://jobicy.com/jobs/152463-account-development-representative-dach-2",
-      "source": "jobicy",
-      "location": "France,  Germany,  Netherlands,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/155056-staff-machine-learning-engineer-ads-foundational-representations",
-      "source": "jobicy",
-      "location": "Netherlands,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Category Manager Asian & Tribal Arts",
-      "company": "Catawiki",
-      "url": "https://jobicy.com/jobs/153255-category-manager-asian-tribal-arts",
-      "source": "jobicy",
-      "location": "France,  Italy,  Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Campaigns & Activations Specialist - Category Marketing",
-      "company": "Catawiki",
-      "url": "https://jobicy.com/jobs/153253-campaigns-activations-specialist-category-marketing",
+      "title": "Affiliate Business Development Manager, Western Europe",
+      "company": "OKX",
+      "url": "https://jobicy.com/jobs/155789-affiliate-business-development-manager-western-europe",
       "source": "jobicy",
       "location": "Netherlands",
       "remoteHint": false
     },
     {
-      "title": "Account Executive, EMEA",
-      "company": "Socket",
-      "url": "https://jobicy.com/jobs/153265-account-executive-emea-3",
+      "title": "Director, Strategic Institutional Partnerships - Special Projects Lead",
+      "company": "OKX",
+      "url": "https://jobicy.com/jobs/155792-director-strategic-institutional-partnerships-special-projects-lead",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Conceptual Copywriter",
+      "company": "Superside",
+      "url": "https://jobicy.com/jobs/153612-conceptual-copywriter",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Conceptual Art Director",
+      "company": "Superside",
+      "url": "https://jobicy.com/jobs/153608-conceptual-art-director",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Ads Quality Rater - Dutch (Netherlands)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/153570-ads-quality-rater-dutch-netherlands",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Technical Product Manager, Token Factory",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+      "source": "jobicy",
+      "location": "Europe,  Netherlands,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Vulnerability Operation Center Lead",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/149362-vulnerability-operation-center-lead",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Senior Backend Engineer (Boosters)",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153227-senior-backend-engineer-boosters",
+      "title": "Offensive Security Lead",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/149365-offensive-security-lead",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Marketing Event Manager - EMEA",
-      "company": "Dandy",
-      "url": "https://jobicy.com/jobs/153247-marketing-event-manager-emea",
+      "title": "Account Director",
+      "company": "Superside",
+      "url": "https://jobicy.com/jobs/151032-account-director",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "International Audio/Video Remote Kunama Interpreter (Must also speak Tigrinya or Arabic)",
+      "company": "Language Services Associates",
+      "url": "https://jobicy.com/jobs/150946-international-audio-video-remote-kunama-interpreter-must-also-speak-tigrinya-or-arabic",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": true
+    },
+    {
+      "title": "International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter",
+      "company": "Language Services Associates",
+      "url": "https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": true
+    },
+    {
+      "title": "International Audio/Video Remote Spanish Interpreter",
+      "company": "Language Services Associates",
+      "url": "https://jobicy.com/jobs/155758-international-audio-video-remote-spanish-interpreter",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": true
+    },
+    {
+      "title": "Machine Learning Engineer (Governance ML Platform)",
+      "company": "EDB",
+      "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Software Engineer, Data Pipeline",
+      "company": "Bloomreach",
+      "url": "https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Principal ML Platform Engineer",
-      "company": "Synthesia",
-      "url": "https://jobicy.com/jobs/153242-principal-ml-platform-engineer",
+      "title": "Staff Software Engineer - Python, Java / Spring or Go",
+      "company": "Bloomreach",
+      "url": "https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Senior Integration Engineer",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153232-senior-integration-engineer",
+      "title": "Principal Production Designer, Print & Packaging",
+      "company": "hims &#038; hers",
+      "url": "https://jobicy.com/jobs/155728-principal-production-designer-print-packaging",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Senior Legal Counsel",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153231-senior-legal-counsel-3",
+      "title": "Senior Full-Stack Software Engineer (Remote in Europe)",
+      "company": "Skedda",
+      "url": "https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2",
       "source": "jobicy",
       "location": "Europe",
+      "remoteHint": true
+    },
+    {
+      "title": "Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/155709-hebrew-freelance-translator-copy-editor-product-marketing-ui-content",
+      "source": "jobicy",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Marketing Designer",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153230-marketing-designer",
+      "title": "English to Burmese (Myanmar) Linguist & Copy Editor for Product, Marketing & UI Content",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Senior Game Mathematician",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/153229-senior-game-mathematician",
+      "title": "Enterprise Customer Success Manager",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/155703-enterprise-customer-success-manager-9",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Enterprise Customer Success Manager (French speaker)",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/155706-enterprise-customer-success-manager-french-speaker",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior International Sales Recruiter, UK/EMEA",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/155694-senior-international-sales-recruiter-uk-emea",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Deployment Strategist, Eastern Europe",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/155691-deployment-strategist-eastern-europe",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Product Sales Specialist, EMEA",
+      "company": "Cribl",
+      "url": "https://jobicy.com/jobs/155679-product-sales-specialist-emea",
+      "source": "jobicy",
+      "location": "Germany,  Netherlands,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Clinical Research Associate II",
+      "company": "Precision Medicine Group",
+      "url": "https://jobicy.com/jobs/155683-clinical-research-associate-ii",
+      "source": "jobicy",
+      "location": "Netherlands",
       "remoteHint": false
     }
   ],
