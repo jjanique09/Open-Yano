@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-10-19T14:42:15.007Z · **Jobs:** 25
+**Updated:** 2026-10-21T12:57:27.244Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
-**Sources:** jobicy:25, remoteok:25, remotive:12, indeed:search-link-only (no scrape key)
+**Sources:** jobicy:25, remoteok:25, remotive:10, indeed:search-link-only (no scrape key)
 
-## 1. Affiliate Business Development Manager, Western Europe
-- **Company:** OKX
-- **Location:** Netherlands
+## 1. Senior User Acquisition Manager, Paid Social Ads
+- **Company:** Ruby Labs
+- **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155789-affiliate-business-development-manager-western-europe
+- **URL:** https://jobicy.com/jobs/156150-senior-user-acquisition-manager-paid-social-ads
 
-## 2. Director, Strategic Institutional Partnerships - Special Projects Lead
-- **Company:** OKX
+## 2. Senior Solutions Architect - Europe
+- **Company:** Deepgram
+- **Location:** Austria,  Germany,  Ireland,  Netherlands,  Spain,  Switzerland,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156151-senior-solutions-architect-europe
+
+## 3. Head of Product
+- **Company:** Dune
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156144-head-of-product-2
+
+## 4. Staff Software Engineer - Market Data
+- **Company:** Dune
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156140-staff-software-engineer-market-data
+
+## 5. Staff Software Engineer
+- **Company:** saas.group
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155792-director-strategic-institutional-partnerships-special-projects-lead
+- **URL:** https://jobicy.com/jobs/153697-staff-software-engineer-6
 
-## 3. Conceptual Copywriter
-- **Company:** Superside
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153612-conceptual-copywriter
-
-## 4. Conceptual Art Director
-- **Company:** Superside
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153608-conceptual-art-director
-
-## 5. Ads Quality Rater - Dutch (Netherlands)
-- **Company:** Welo Global
-- **Location:** Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/153570-ads-quality-rater-dutch-netherlands
-
-## 6. Senior Technical Product Manager, Token Factory
-- **Company:** Nebius
-- **Location:** Europe,  Netherlands,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory
-
-## 7. Vulnerability Operation Center Lead
-- **Company:** Nebius
+## 6. Chief Technology and Product Officer
+- **Company:** saas.group
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149362-vulnerability-operation-center-lead
+- **URL:** https://jobicy.com/jobs/153689-chief-technology-and-product-officer
 
-## 8. Offensive Security Lead
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/149365-offensive-security-lead
-
-## 9. Account Director
-- **Company:** Superside
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/151032-account-director
-
-## 10. International Audio/Video Remote Kunama Interpreter (Must also speak Tigrinya or Arabic)
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150946-international-audio-video-remote-kunama-interpreter-must-also-speak-tigrinya-or-arabic
-
-## 11. International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter
-
-## 12. International Audio/Video Remote Spanish Interpreter
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155758-international-audio-video-remote-spanish-interpreter
-
-## 13. Machine Learning Engineer (Governance ML Platform)
-- **Company:** EDB
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform
-
-## 14. Senior Software Engineer, Data Pipeline
-- **Company:** Bloomreach
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline
-
-## 15. Staff Software Engineer - Python, Java / Spring or Go
-- **Company:** Bloomreach
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go
-
-## 16. Principal Production Designer, Print & Packaging
-- **Company:** hims &#038; hers
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155728-principal-production-designer-print-packaging
-
-## 17. Senior Full-Stack Software Engineer (Remote in Europe)
-- **Company:** Skedda
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155727-senior-full-stack-software-engineer-remote-in-europe-2
-
-## 18. Hebrew Freelance Translator & Copy Editor (Product, Marketing & UI Content)
+## 7. Norwegian Tech Linguistic Tester
 - **Company:** Welo Global
 - **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155709-hebrew-freelance-translator-copy-editor-product-marketing-ui-content
+- **URL:** https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester
 
-## 19. English to Burmese (Myanmar) Linguist & Copy Editor for Product, Marketing & UI Content
-- **Company:** Welo Global
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155708-english-to-burmese-myanmar-linguist-copy-editor-for-product-marketing-ui-content
-
-## 20. Enterprise Customer Success Manager
-- **Company:** Canonical
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155703-enterprise-customer-success-manager-9
-
-## 21. Enterprise Customer Success Manager (French speaker)
-- **Company:** Canonical
+## 8. Sales Engineer - Upstream Bioprocessing
+- **Company:** Spirax Group
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155706-enterprise-customer-success-manager-french-speaker
+- **URL:** https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing
 
-## 22. Senior International Sales Recruiter, UK/EMEA
-- **Company:** TRM Labs
+## 9. Principal Software Engineer - Data Lakes
+- **Company:** Fivetran
+- **Location:** EMEA,  Germany
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes
+
+## 10. Sales Manager - Weather & Climate (EMEA & APAC)
+- **Company:** Spire
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/146743-sales-manager-weather-climate-emea-apac
+
+## 11. Application Security Engineering Manager
+- **Company:** Synthesia
+- **Location:** Europe,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/146803-application-security-engineering-manager
+
+## 12. Staff Android Engineer
+- **Company:** AlphaSense
+- **Location:** Europe,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/147066-staff-android-engineer
+
+## 13. AI Enablement and Learning Specialist
+- **Company:** Superside
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155694-senior-international-sales-recruiter-uk-emea
+- **URL:** https://jobicy.com/jobs/156074-ai-enablement-and-learning-specialist
 
-## 23. Deployment Strategist, Eastern Europe
-- **Company:** TRM Labs
-- **Location:** EMEA
+## 14. Senior Software Engineer, Agents
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155691-deployment-strategist-eastern-europe
+- **URL:** https://jobicy.com/jobs/156026-senior-software-engineer-agents-2
 
-## 24. Product Sales Specialist, EMEA
-- **Company:** Cribl
-- **Location:** Germany,  Netherlands,  Spain,  UK
+## 15. Head of Sales
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155679-product-sales-specialist-emea
+- **URL:** https://jobicy.com/jobs/156020-head-of-sales-2
 
-## 25. Clinical Research Associate II
-- **Company:** Precision Medicine Group
-- **Location:** Netherlands
+## 16. Head of Customer Growth
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155683-clinical-research-associate-ii
+- **URL:** https://jobicy.com/jobs/156023-head-of-customer-growth
+
+## 17. Microsoft 365 Engineer
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155962-microsoft-365-engineer
+
+## 18. ML Infrastructure Engineer
+- **Company:** Nebius
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155964-ml-infrastructure-engineer
+
+## 19. Manager, ML Solutions Architecture - Token Factory
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory
+
+## 20. Learning Experience Designer, Nebius Academy
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy
+
+## 21. Forward Deployed Engineer, Physical AI Infrastructure
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155951-forward-deployed-engineer-physical-ai-infrastructure
+
+## 22. Full Stack Engineer
+- **Company:** infisical
+- **Location:** Brazil,  Canada,  Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155950-full-stack-engineer-7
+
+## 23. Senior Full Stack Engineer
+- **Company:** infisical
+- **Location:** Brazil,  Canada,  Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155949-senior-full-stack-engineer-8
+
+## 24. Head of Employee Relations
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155954-head-of-employee-relations
+
+## 25. 3PL Operations Manager
+- **Company:** Nebius
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155948-3pl-operations-manager
