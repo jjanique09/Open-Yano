@@ -1,214 +1,214 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-10-21T12:57:27.244Z",
+  "searchedAt": "2026-10-23T12:38:44.765Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
   "sourcesUsed": [
     "jobicy:25",
     "remoteok:25",
-    "remotive:10",
+    "remotive:9",
     "indeed:search-link-only (no scrape key)"
   ],
   "errors": [],
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Senior User Acquisition Manager, Paid Social Ads",
-      "company": "Ruby Labs",
-      "url": "https://jobicy.com/jobs/156150-senior-user-acquisition-manager-paid-social-ads",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Solutions Architect - Europe",
-      "company": "Deepgram",
-      "url": "https://jobicy.com/jobs/156151-senior-solutions-architect-europe",
-      "source": "jobicy",
-      "location": "Austria,  Germany,  Ireland,  Netherlands,  Spain,  Switzerland,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Head of Product",
-      "company": "Dune",
-      "url": "https://jobicy.com/jobs/156144-head-of-product-2",
-      "source": "jobicy",
-      "location": "Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Software Engineer - Market Data",
-      "company": "Dune",
-      "url": "https://jobicy.com/jobs/156140-staff-software-engineer-market-data",
-      "source": "jobicy",
-      "location": "Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Software Engineer",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/153697-staff-software-engineer-6",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Chief Technology and Product Officer",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/153689-chief-technology-and-product-officer",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Norwegian Tech Linguistic Tester",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester",
+      "title": "Business Services Team Manager",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156580-business-services-team-manager",
       "source": "jobicy",
       "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Sales Engineer - Upstream Bioprocessing",
-      "company": "Spirax Group",
-      "url": "https://jobicy.com/jobs/146984-sales-engineer-upstream-bioprocessing",
+      "title": "Performance Engineer - Performance Analysis & Tuning",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Performance Engineer - Benchmarking",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156578-business-development-representative-20",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Supalite Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156576-supalite-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Release Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156579-release-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Early Childhood Teacher (PT)",
+      "company": "Think Academy US",
+      "url": "https://jobicy.com/jobs/156577-early-childhood-teacher-pt-3",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Early Childhood Teacher",
+      "company": "Think Academy US",
+      "url": "https://jobicy.com/jobs/156575-early-childhood-teacher-2",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Manager - Distributed Systems, Python / Go",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Director - Commercial Systems",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems",
       "source": "jobicy",
       "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Principal Software Engineer - Data Lakes",
-      "company": "Fivetran",
-      "url": "https://jobicy.com/jobs/146976-principal-software-engineer-data-lakes",
-      "source": "jobicy",
-      "location": "EMEA,  Germany",
-      "remoteHint": false
-    },
-    {
-      "title": "Sales Manager - Weather & Climate (EMEA & APAC)",
-      "company": "Spire",
-      "url": "https://jobicy.com/jobs/146743-sales-manager-weather-climate-emea-apac",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Application Security Engineering Manager",
-      "company": "Synthesia",
-      "url": "https://jobicy.com/jobs/146803-application-security-engineering-manager",
-      "source": "jobicy",
-      "location": "Europe,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Android Engineer",
-      "company": "AlphaSense",
-      "url": "https://jobicy.com/jobs/147066-staff-android-engineer",
-      "source": "jobicy",
-      "location": "Europe,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Enablement and Learning Specialist",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/156074-ai-enablement-and-learning-specialist",
+      "title": "Engineering Manager, Commercial Systems",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156572-engineering-manager-commercial-systems",
       "source": "jobicy",
       "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Senior Software Engineer, Agents",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156026-senior-software-engineer-agents-2",
+      "title": "Engineering Manager- Ceph & Distributed Storage",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2",
       "source": "jobicy",
       "location": "EMEA,  LATAM,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Head of Sales",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156020-head-of-sales-2",
+      "title": "Engineering Director - Business Data",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156569-engineering-director-business-data",
       "source": "jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Head of Customer Growth",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156023-head-of-customer-growth",
+      "title": "Sr. Engineer, Infrastructure Security",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security",
       "source": "jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
+      "location": "EMEA,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Microsoft 365 Engineer",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155962-microsoft-365-engineer",
+      "title": "Sr. Engineer, Database Reliability",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "EMEA,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "ML Infrastructure Engineer",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155964-ml-infrastructure-engineer",
+      "title": "Mid-Market Account Executive, EMEA",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/156557-mid-market-account-executive-emea-3",
       "source": "jobicy",
-      "location": "Europe,  USA",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Manager, ML Solutions Architecture - Token Factory",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155956-manager-ml-solutions-architecture-token-factory",
+      "title": "Senior Software Engineer, Backend",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/156558-senior-software-engineer-backend-4",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Learning Experience Designer, Nebius Academy",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155955-learning-experience-designer-nebius-academy",
+      "title": "Events Marketing Manager, EMEA",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/156556-events-marketing-manager-emea",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Forward Deployed Engineer, Physical AI Infrastructure",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155951-forward-deployed-engineer-physical-ai-infrastructure",
+      "title": "Senior Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/156560-senior-software-engineer-product-ai",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Full Stack Engineer",
-      "company": "infisical",
-      "url": "https://jobicy.com/jobs/155950-full-stack-engineer-7",
-      "source": "jobicy",
-      "location": "Brazil,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "company": "infisical",
-      "url": "https://jobicy.com/jobs/155949-senior-full-stack-engineer-8",
-      "source": "jobicy",
-      "location": "Brazil,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Head of Employee Relations",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155954-head-of-employee-relations",
+      "title": "Manual QA Engineer (Game Client)",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/156544-manual-qa-engineer-game-client",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "3PL Operations Manager",
+      "title": "Senior HPC Cluster Engineer",
       "company": "Nebius",
-      "url": "https://jobicy.com/jobs/155948-3pl-operations-manager",
+      "url": "https://jobicy.com/jobs/156540-senior-hpc-cluster-engineer",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior HPC Engineer, GPU Compute",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/156543-senior-hpc-engineer-gpu-compute",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Data Engineer",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/156537-senior-data-engineer-5",
+      "source": "jobicy",
+      "location": "Europe,  Israel",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Customer AI Engineer - Token Factory",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/156535-senior-customer-ai-engineer-token-factory",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
