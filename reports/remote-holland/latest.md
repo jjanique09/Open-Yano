@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-10-23T12:38:44.765Z · **Jobs:** 25
+**Updated:** 2026-10-26T14:18:09.963Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
-**Sources:** jobicy:25, remoteok:25, remotive:9, indeed:search-link-only (no scrape key)
+**Sources:** jobicy:25, remoteok:25, remotive:10, indeed:search-link-only (no scrape key)
 
-## 1. Business Services Team Manager
-- **Company:** Canonical
-- **Location:** Anywhere
+## 1. Strategic Account Director
+- **Company:** Keyfactor, Inc.
+- **Location:** Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156580-business-services-team-manager
+- **URL:** https://jobicy.com/jobs/157127-strategic-account-director
 
-## 2. Performance Engineer - Performance Analysis & Tuning
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning
-
-## 3. Performance Engineer - Benchmarking
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156582-performance-engineer-benchmarking
-
-## 4. Business Development Representative
-- **Company:** Canonical
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156578-business-development-representative-20
-
-## 5. Supalite Engineer
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156576-supalite-engineer
-
-## 6. Cloud Platform Engineer
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156583-cloud-platform-engineer
-
-## 7. Release Engineer
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156579-release-engineer
-
-## 8. Early Childhood Teacher (PT)
-- **Company:** Think Academy US
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156577-early-childhood-teacher-pt-3
-
-## 9. Early Childhood Teacher
-- **Company:** Think Academy US
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156575-early-childhood-teacher-2
-
-## 10. Engineering Manager - Distributed Systems, Python / Go
-- **Company:** Canonical
+## 2. Senior Software Engineer, Product
+- **Company:** RevenueCat
 - **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go
+- **URL:** https://jobicy.com/jobs/157109-senior-software-engineer-product
 
-## 11. Engineering Director - Commercial Systems
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156570-engineering-director-commercial-systems
-
-## 12. Engineering Manager, Commercial Systems
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156572-engineering-manager-commercial-systems
-
-## 13. Engineering Manager- Ceph & Distributed Storage
-- **Company:** Canonical
+## 3. Senior Backend Engineer
+- **Company:** RevenueCat
 - **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2
+- **URL:** https://jobicy.com/jobs/157106-senior-backend-engineer-13
 
-## 14. Engineering Director - Business Data
-- **Company:** Canonical
+## 4. Infrastructure Security Engineer
+- **Company:** Elevenlabs
+- **Location:** Belgium,  Bulgaria,  Croatia,  Czechia,  Denmark,  Hungary,  Ireland,  Italy,  Netherlands,  Poland,  Portugal,  Spain,  Sweden,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/157064-infrastructure-security-engineer
+
+## 5. Proposal Manager
+- **Company:** Elevenlabs
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156569-engineering-director-business-data
+- **URL:** https://jobicy.com/jobs/157060-proposal-manager-2
 
-## 15. Sr. Engineer, Infrastructure Security
-- **Company:** Zapier
-- **Location:** EMEA,  Canada,  USA
+## 6. Staff Engineer, Full Stack (Trust, Safety & Risk)
+- **Company:** Phantom
+- **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security
+- **URL:** https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk
 
-## 16. Sr. Engineer, Database Reliability
-- **Company:** Zapier
-- **Location:** EMEA,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156564-sr-engineer-database-reliability
-
-## 17. Mid-Market Account Executive, EMEA
-- **Company:** Customer.io
+## 7. Database Support Engineer (EMEA)
+- **Company:** Supabase
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156557-mid-market-account-executive-emea-3
+- **URL:** https://jobicy.com/jobs/154079-database-support-engineer-emea
 
-## 18. Senior Software Engineer, Backend
-- **Company:** Customer.io
-- **Location:** EMEA
+## 8. Staff Platform Security Engineer (Security)
+- **Company:** Phantom
+- **Location:** Canada,  Europe,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156558-senior-software-engineer-backend-4
+- **URL:** https://jobicy.com/jobs/154078-staff-platform-security-engineer-security
 
-## 19. Events Marketing Manager, EMEA
-- **Company:** Customer.io
-- **Location:** EMEA
+## 9. Senior Software Engineer, Backend (Money Movement)
+- **Company:** Phantom
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156556-events-marketing-manager-emea
+- **URL:** https://jobicy.com/jobs/154082-senior-software-engineer-backend-money-movement
 
-## 20. Senior Software Engineer, Product/AI
-- **Company:** Customer.io
-- **Location:** EMEA
+## 10. Enterprise Account Executive - DACH
+- **Company:** Ashby
+- **Location:** Austria,  Belgium,  Czechia,  France,  Germany,  Hungary,  Ireland,  Netherlands,  Poland,  Spain,  UK
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156560-senior-software-engineer-product-ai
+- **URL:** https://jobicy.com/jobs/151627-enterprise-account-executive-dach
 
-## 21. Manual QA Engineer (Game Client)
+## 11. Engineering Manager, RC Capital
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/151629-engineering-manager-rc-capital
+
+## 12. Senior Product Manager, Funnels/Workflow
+- **Company:** RevenueCat
+- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/151545-senior-product-manager-funnels-workflow
+
+## 13. Account Executive
+- **Company:** Enode
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/151443-account-executive-11
+
+## 14. People Operations Partner
 - **Company:** Playson
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156544-manual-qa-engineer-game-client
+- **URL:** https://jobicy.com/jobs/157031-people-operations-partner
 
-## 22. Senior HPC Cluster Engineer
-- **Company:** Nebius
-- **Location:** Europe
+## 15. Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)
+- **Company:** Canonical
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156540-senior-hpc-cluster-engineer
+- **URL:** https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels
 
-## 23. Senior HPC Engineer, GPU Compute
-- **Company:** Nebius
-- **Location:** Europe
+## 16. Senior Product Manager, User Acquisition
+- **Company:** RevenueCat
+- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156543-senior-hpc-engineer-gpu-compute
+- **URL:** https://jobicy.com/jobs/156992-senior-product-manager-user-acquisition
 
-## 24. Senior Data Engineer
-- **Company:** Nebius
-- **Location:** Europe,  Israel
+## 17. Strategic Account Executive (Netherlands)
+- **Company:** Ping Identity
+- **Location:** Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156537-senior-data-engineer-5
+- **URL:** https://jobicy.com/jobs/156988-strategic-account-executive-netherlands
 
-## 25. Senior Customer AI Engineer - Token Factory
-- **Company:** Nebius
-- **Location:** Europe
+## 18. Strategic Account Executive (Eastern Europe)
+- **Company:** Ping Identity
+- **Location:** Netherlands,  UK
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156535-senior-customer-ai-engineer-token-factory
+- **URL:** https://jobicy.com/jobs/156986-strategic-account-executive-eastern-europe
+
+## 19. Senior Sales Engineer - Majors (UK/Nordics/Netherlands)
+- **Company:** Datadog
+- **Location:** Denmark,  Netherlands,  Sweden,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156976-senior-sales-engineer-majors-uk-nordics-netherlands
+
+## 20. Software Engineer - Branching
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156947-software-engineer-branching
+
+## 21. Platform Engineer - Compute Capacity
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156946-platform-engineer-compute-capacity
+
+## 22. Distributed Systems Engineer
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156945-distributed-systems-engineer-3
+
+## 23. AWS Gaming GTM Segment Lead
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156944-aws-gaming-gtm-segment-lead
+
+## 24. Senior Data Analyst - Marketing
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156941-senior-data-analyst-marketing
+
+## 25. Software Engineer - Storage
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156940-software-engineer-storage
