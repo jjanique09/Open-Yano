@@ -1,6 +1,6 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-10-30T14:12:49.288Z",
+  "searchedAt": "2026-11-02T17:06:29.499Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
@@ -14,203 +14,203 @@
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Senior Design Engineer",
-      "company": "Enode",
-      "url": "https://jobicy.com/jobs/157958-senior-design-engineer",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Trainers Network - Cebuano",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/157953-ai-trainers-network-cebuano",
-      "source": "jobicy",
-      "location": "Europe,  Philippines",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Trainers Network - Bosnian",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/157933-ai-trainers-network-bosnian",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Trainers Network - Belarusian",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/157929-ai-trainers-network-belarusian",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Director of Creative Strategy",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/154189-director-of-creative-strategy",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Multigres Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/152057-multigres-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Support Engineer (EMEA)",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Founding Enterprise Account Executive (EMEA - German Speaker)",
-      "company": "Tremendous",
-      "url": "https://jobicy.com/jobs/151998-founding-enterprise-account-executive-emea-german-speaker",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Founding Sales Development Representative (DACH)",
-      "company": "Tremendous",
-      "url": "https://jobicy.com/jobs/151997-founding-sales-development-representative-dach",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Founding Sales Development Representative (Europe)",
-      "company": "Tremendous",
-      "url": "https://jobicy.com/jobs/151996-founding-sales-development-representative-europe",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Founding Mid-Market Account Executive (EMEA - German Speaker)",
-      "company": "Tremendous",
-      "url": "https://jobicy.com/jobs/151995-founding-mid-market-account-executive-emea-german-speaker",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Solutions Architect | Netherlands | Remote",
-      "company": "Grafana Labs",
-      "url": "https://jobicy.com/jobs/157883-senior-solutions-architect-netherlands-remote",
-      "source": "jobicy",
-      "location": "Netherlands",
-      "remoteHint": true
-    },
-    {
-      "title": "2D Graphic and Motion Designer",
-      "company": "Ruby Labs",
-      "url": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Public Sector Partnerships Lead - France",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/157832-public-sector-partnerships-lead-france",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Enterprise Account Executive, Benelux",
-      "company": "Kong Inc.",
-      "url": "https://jobicy.com/jobs/157826-enterprise-account-executive-benelux-2",
-      "source": "jobicy",
-      "location": "Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Site Reliability Engineer in Hardware Infrastructure",
+      "title": "Software Engineer in Hardware Infrastructure Observability",
       "company": "Nebius",
-      "url": "https://jobicy.com/jobs/157822-site-reliability-engineer-in-hardware-infrastructure",
+      "url": "https://jobicy.com/jobs/158526-software-engineer-in-hardware-infrastructure-observability",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Senior Technical Program Manager - New Data Center Launches",
+      "title": "Technical Support Engineer - night shifts",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/158523-technical-support-engineer-night-shifts",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Sales Manager, Mid-Market - EMEA",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/158522-sales-manager-mid-market-emea",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "AI Science Writer, Nebius Academy (Contract)",
       "company": "Nebius",
-      "url": "https://jobicy.com/jobs/157819-senior-technical-program-manager-new-data-center-launches",
+      "url": "https://jobicy.com/jobs/158519-ai-science-writer-nebius-academy-contract-2",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Senior Product Manager, Panel (Remote, EU/UK)",
-      "company": "Maze",
-      "url": "https://jobicy.com/jobs/157816-senior-product-manager-panel-remote-eu-uk",
-      "source": "jobicy",
-      "location": "Europe,  UK",
-      "remoteHint": true
-    },
-    {
-      "title": "Head of Tax Information Reporting",
-      "company": "OKX",
-      "url": "https://jobicy.com/jobs/157815-head-of-tax-information-reporting",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Project Development Manager- Data Centers, EMEA",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/157814-project-development-manager-data-centers-emea-2",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Golang Software Engineer, Commercial Systems",
+      "title": "Embedded Linux Senior Software Engineer - Optimisation",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/157772-golang-software-engineer-commercial-systems",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "AI Trainers Network - Amharic",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/157769-ai-trainers-network-amharic",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "General Counsel",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/157768-general-counsel-2",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Business Intelligence Data Architect",
-      "company": "Contentstack",
-      "url": "https://jobicy.com/jobs/157725-business-intelligence-data-architect",
-      "source": "jobicy",
-      "location": "Netherlands,  Portugal",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Data Scientist, Product",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/157724-senior-data-scientist-product-2",
+      "url": "https://jobicy.com/jobs/158514-embedded-linux-senior-software-engineer-optimisation",
       "source": "jobicy",
       "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Embedded Devices Software Solution Sales Account Manager",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/158506-embedded-devices-software-solution-sales-account-manager",
+      "source": "jobicy",
+      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Containerization & Virtualisation Engineer",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/158494-containerization-virtualisation-engineer-2",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Account Director, Public Sector (DACH)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/152152-account-director-public-sector-dach",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Growth Marketing Manager, Foundry",
+      "company": "Instructure",
+      "url": "https://jobicy.com/jobs/152189-growth-marketing-manager-foundry",
+      "source": "jobicy",
+      "location": "Australia,  Brazil,  China,  Germany,  Hong Kong,  Hungary,  Mexico,  Netherlands,  Norway,  Philippines,  Spain,  Sweden,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "UX Designer | EMEA | Contract",
+      "company": "Fueled",
+      "url": "https://jobicy.com/jobs/158378-ux-designer-emea-contract",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Professional Services Engineer",
+      "company": "GitLab",
+      "url": "https://jobicy.com/jobs/158368-senior-professional-services-engineer",
+      "source": "jobicy",
+      "location": "Netherlands,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Applied AI Engineer",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158366-applied-ai-engineer-3",
+      "source": "jobicy",
+      "location": "Bulgaria,  France,  Germany,  Hungary,  Ireland,  Italy,  Netherlands,  Poland,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Product Manager (ElevenCreative Self-Serve)",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158363-product-manager-elevencreative-self-serve",
+      "source": "jobicy",
+      "location": "Netherlands,  Poland,  UK,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "AI Trainers Network - Georgian",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/158361-ai-trainers-network-georgian",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Finance Data Scientist",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158354-finance-data-scientist",
+      "source": "jobicy",
+      "location": "Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158351-analytics-engineer-6",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Deployment Strategist, Public Sector (EMEA)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/158349-deployment-strategist-public-sector-emea",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Influencer Marketer",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/158347-influencer-marketer",
+      "source": "jobicy",
+      "location": "Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Enablement Manager, Public Sector",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/158345-enablement-manager-public-sector",
+      "source": "jobicy",
+      "location": "EMEA,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Account Director, Central Banks & Regulators (EMEA)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/158339-account-director-central-banks-regulators-emea",
+      "source": "jobicy",
+      "location": "Belgium,  France,  Netherlands,  Spain",
+      "remoteHint": false
+    },
+    {
+      "title": "AI Trainers Network - Korean and Chinese Simplified Bilingual",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/158333-ai-trainers-network-korean-and-chinese-simplified-bilingual",
+      "source": "jobicy",
+      "location": "Europe,  South Korea",
+      "remoteHint": false
+    },
+    {
+      "title": "Software Engineer in Hardware Infrastructure",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/158323-software-engineer-in-hardware-infrastructure",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Site Selection & Colocation Manager – Data Centers",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/158319-site-selection-colocation-manager-data-centers",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "AI Trainers Network - Dutch Talent Hub",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/158317-ai-trainers-network-dutch-talent-hub",
+      "source": "jobicy",
+      "location": "Belgium,  Canada,  France,  Germany,  Netherlands,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Mobile Growth Manager",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/158316-mobile-growth-manager",
+      "source": "jobicy",
+      "location": "Europe",
       "remoteHint": false
     }
   ],
