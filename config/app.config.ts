@@ -139,6 +139,19 @@ export const appConfig = {
     ],
   },
   
+  // Browser Agent Configuration (Stagehand + Firecrawl hybrid)
+  browserAgent: {
+    defaultModel: 'anthropic/claude-sonnet-4-20250514',
+    maxSteps: 20,
+    headless: true,
+    domSettleTimeoutMs: 3000,
+    preferFirecrawlForUrls: true,
+    viewport: {
+      width: 1280,
+      height: 720,
+    },
+  },
+
   // API Endpoints Configuration (for external services)
   api: {
     // Retry configuration
