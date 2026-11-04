@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-11-02T17:06:29.499Z · **Jobs:** 25
+**Updated:** 2026-11-04T15:27:15.908Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
-**Sources:** jobicy:25, remoteok:25, remotive:12, indeed:search-link-only (no scrape key)
+**Sources:** jobicy:25, remoteok:25, remotive:11, indeed:search-link-only (no scrape key)
 
-## 1. Software Engineer in Hardware Infrastructure Observability
-- **Company:** Nebius
+## 1. Accounts Receivable Clerk
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/148113-accounts-receivable-clerk
+
+## 2. Onboarding Project Manager
+- **Company:** Cloudbeds
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158526-software-engineer-in-hardware-infrastructure-observability
+- **URL:** https://jobicy.com/jobs/144915-onboarding-project-manager
 
-## 2. Technical Support Engineer - night shifts
-- **Company:** Playson
-- **Location:** Europe
+## 3. Solutions Architect for Automotive
+- **Company:** Canonical
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158523-technical-support-engineer-night-shifts
+- **URL:** https://jobicy.com/jobs/154514-solutions-architect-for-automotive
 
-## 3. Sales Manager, Mid-Market - EMEA
-- **Company:** Ashby
-- **Location:** Europe
+## 4. Open Source Enterprise Sales / Alliances
+- **Company:** Canonical
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158522-sales-manager-mid-market-emea
+- **URL:** https://jobicy.com/jobs/154506-open-source-enterprise-sales-alliances
 
-## 4. AI Science Writer, Nebius Academy (Contract)
-- **Company:** Nebius
-- **Location:** Europe
+## 5. Large Enterprise Account Executive
+- **Company:** Dandy
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158519-ai-science-writer-nebius-academy-contract-2
+- **URL:** https://jobicy.com/jobs/154497-large-enterprise-account-executive
 
-## 5. Embedded Linux Senior Software Engineer - Optimisation
+## 6. Talent Scientist
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149990-talent-scientist
+
+## 7. Software Engineer - Data Infrastructure - Kafka
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149988-software-engineer-data-infrastructure-kafka
+
+## 8. Engineering Manager - Public Cloud, Python, Golang
 - **Company:** Canonical
 - **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158514-embedded-linux-senior-software-engineer-optimisation
+- **URL:** https://jobicy.com/jobs/149985-engineering-manager-public-cloud-python-golang
 
-## 6. Embedded Devices Software Solution Sales Account Manager
+## 9. 1775 RPG/AS400 & JD Edwards EnterpriseOne Developer
+- **Company:** Softgic
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150052-1775-rpg-as400-jd-edwards-enterpriseone-developer
+
+## 10. Product Marketing Lead - Trade
+- **Company:** Consensys
+- **Location:** EMEA,  LATAM,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149957-product-marketing-lead-trade
+
+## 11. Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149994-software-engineer-data-infrastructure-opensearch-elasticsearch
+
+## 12. Site Reliability Engineering Manager
+- **Company:** Canonical
+- **Location:** APAC,  EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149986-site-reliability-engineering-manager
+
+## 13. Golang Engineering Manager, Commercial Systems
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149984-golang-engineering-manager-commercial-systems
+
+## 14. Software Engineer, Ceph & Distributed Storage
+- **Company:** Canonical
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149972-software-engineer-ceph-distributed-storage
+
+## 15. Engineering Manager- Ceph & Distributed Storage
+- **Company:** Canonical
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149970-engineering-manager-ceph-distributed-storage
+
+## 16. Senior Organisational Development Practitioner
+- **Company:** Canonical
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149961-senior-organisational-development-practitioner
+
+## 17. Regional SDR Director
 - **Company:** Canonical
 - **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158506-embedded-devices-software-solution-sales-account-manager
+- **URL:** https://jobicy.com/jobs/149924-regional-sdr-director
 
-## 7. Containerization & Virtualisation Engineer
+## 18. Tax Senior Associate
+- **Company:** Canonical
+- **Location:** EMEA,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149991-tax-senior-associate
+
+## 19. Python Engineering Manager, Commercial Systems
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149989-python-engineering-manager-commercial-systems
+
+## 20. Director, Talent Analytics
+- **Company:** Canonical
+- **Location:** EMEA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149987-director-talent-analytics
+
+## 21. Software Architect - Containers / Virtualisation
 - **Company:** Canonical
 - **Location:** EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158494-containerization-virtualisation-engineer-2
+- **URL:** https://jobicy.com/jobs/149981-software-architect-containers-virtualisation
 
-## 8. Account Director, Public Sector (DACH)
-- **Company:** TRM Labs
+## 22. Engineering Manager for IAM (Identity and Access Management)
+- **Company:** Canonical
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149980-engineering-manager-for-iam-identity-and-access-management
+
+## 23. Software Engineer - Data Infrastructure
+- **Company:** Canonical
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152152-account-director-public-sector-dach
+- **URL:** https://jobicy.com/jobs/149971-software-engineer-data-infrastructure
 
-## 9. Growth Marketing Manager, Foundry
-- **Company:** Instructure
-- **Location:** Australia,  Brazil,  China,  Germany,  Hong Kong,  Hungary,  Mexico,  Netherlands,  Norway,  Philippines,  Spain,  Sweden,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152189-growth-marketing-manager-foundry
-
-## 10. UX Designer | EMEA | Contract
-- **Company:** Fueled
+## 24. Design Manager (Visual)
+- **Company:** Canonical
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158378-ux-designer-emea-contract
+- **URL:** https://jobicy.com/jobs/149983-design-manager-visual
 
-## 11. Senior Professional Services Engineer
-- **Company:** GitLab
-- **Location:** Netherlands,  Spain,  UK
+## 25. Developer Relations Engineer
+- **Company:** Canonical
+- **Location:** APAC,  EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158368-senior-professional-services-engineer
-
-## 12. Applied AI Engineer
-- **Company:** Elevenlabs
-- **Location:** Bulgaria,  France,  Germany,  Hungary,  Ireland,  Italy,  Netherlands,  Poland,  Spain,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158366-applied-ai-engineer-3
-
-## 13. Product Manager (ElevenCreative Self-Serve)
-- **Company:** Elevenlabs
-- **Location:** Netherlands,  Poland,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158363-product-manager-elevencreative-self-serve
-
-## 14. AI Trainers Network - Georgian
-- **Company:** Welo Global
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158361-ai-trainers-network-georgian
-
-## 15. Finance Data Scientist
-- **Company:** Elevenlabs
-- **Location:** Europe,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158354-finance-data-scientist
-
-## 16. Analytics Engineer
-- **Company:** Elevenlabs
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158351-analytics-engineer-6
-
-## 17. Deployment Strategist, Public Sector (EMEA)
-- **Company:** TRM Labs
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158349-deployment-strategist-public-sector-emea
-
-## 18. Influencer Marketer
-- **Company:** Elevenlabs
-- **Location:** Europe,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158347-influencer-marketer
-
-## 19. Enablement Manager, Public Sector
-- **Company:** TRM Labs
-- **Location:** EMEA,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158345-enablement-manager-public-sector
-
-## 20. Account Director, Central Banks & Regulators (EMEA)
-- **Company:** TRM Labs
-- **Location:** Belgium,  France,  Netherlands,  Spain
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158339-account-director-central-banks-regulators-emea
-
-## 21. AI Trainers Network - Korean and Chinese Simplified Bilingual
-- **Company:** Welo Global
-- **Location:** Europe,  South Korea
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158333-ai-trainers-network-korean-and-chinese-simplified-bilingual
-
-## 22. Software Engineer in Hardware Infrastructure
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158323-software-engineer-in-hardware-infrastructure
-
-## 23. Site Selection & Colocation Manager – Data Centers
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158319-site-selection-colocation-manager-data-centers
-
-## 24. AI Trainers Network - Dutch Talent Hub
-- **Company:** Welo Global
-- **Location:** Belgium,  Canada,  France,  Germany,  Netherlands,  Spain,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158317-ai-trainers-network-dutch-talent-hub
-
-## 25. Mobile Growth Manager
-- **Company:** Ruby Labs
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/158316-mobile-growth-manager
+- **URL:** https://jobicy.com/jobs/149993-developer-relations-engineer
