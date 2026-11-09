@@ -1,6 +1,6 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-11-06T15:05:29.200Z",
+  "searchedAt": "2026-11-09T17:33:00.644Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
@@ -14,203 +14,203 @@
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Lead Product Management",
-      "company": "Carrot",
-      "url": "https://jobicy.com/jobs/154674-lead-product-management",
+      "title": "Spanish (Spain) to English Pharmacovigilance Linguist",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159907-spanish-spain-to-english-pharmacovigilance-linguist",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "Europe,  USA",
       "remoteHint": false
     },
     {
-      "title": "Engineering Manager - Python and K8s",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
-      "source": "jobicy",
-      "location": "APAC,  EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Talent Scientist - Graduate Lead",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150122-talent-scientist-graduate-lead",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "CRM Marketing Intern",
-      "company": "Catawiki",
-      "url": "https://jobicy.com/jobs/154706-crm-marketing-intern",
+      "title": "Freelance SEO Content Writer - Dutch",
+      "company": "Brafton",
+      "url": "https://jobicy.com/jobs/154908-freelance-seo-content-writer-dutch",
       "source": "jobicy",
       "location": "Netherlands",
       "remoteHint": false
     },
     {
-      "title": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite",
+      "title": "Director of Self Serve",
+      "company": "Paddle",
+      "url": "https://jobicy.com/jobs/154925-director-of-self-serve",
       "source": "jobicy",
-      "location": "EMEA",
+      "location": "Canada,  Ireland,  Netherlands,  Portugal,  UK,  USA",
       "remoteHint": false
     },
     {
-      "title": "Senior Software Engineer - MAAS",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150127-senior-software-engineer-maas",
-      "source": "jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Revenue Accountant",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150126-revenue-accountant",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Software Engineer (Backend)",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150125-senior-software-engineer-backend",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Web Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/150123-senior-web-engineer",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Software Engineer, Frontend",
-      "company": "Phantom",
-      "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "English to French (France) Linguist for Life Sciences",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159221-english-to-french-france-linguist-for-life-sciences",
+      "title": "Accounting Automation Engineer",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "English to Estonian Review Lead for UI, Marketing & Product Content",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159220-english-to-estonian-review-lead-for-ui-marketing-product-content",
-      "source": "jobicy",
-      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
-      "remoteHint": false
-    },
-    {
-      "title": "English to Estonian Linguist for Life Sciences",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159219-english-to-estonian-linguist-for-life-sciences",
+      "title": "Manager of Implementations, High Touch - EMEA",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/154897-manager-of-implementations-high-touch-emea",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "English to Bosnian (Cyrillic) Review Lead for UI, Marketing & Product Content",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159217-english-to-bosnian-cyrillic-review-lead-for-ui-marketing-product-content",
+      "title": "Full-Stack Engineer (Back-End Leaning)",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning",
       "source": "jobicy",
-      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
+      "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA",
       "remoteHint": false
     },
     {
-      "title": "English to Armenian Review Lead for UI, Marketing & Product Content",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159215-english-to-armenian-review-lead-for-ui-marketing-product-content",
-      "source": "jobicy",
-      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
-      "remoteHint": false
-    },
-    {
-      "title": "Salesforce Administrator",
+      "title": "Engineering Manager - Linux Hardware Enablement",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159172-salesforce-administrator",
+      "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
       "source": "jobicy",
-      "location": "EMEA",
+      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Sales Enablement Manager",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159171-sales-enablement-manager",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Sales Development Representative (Arabic Speaker)",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159165-sales-development-representative-arabic-speaker",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Legal Counsel",
+      "title": "Senior Backend Engineer (Core Team)",
       "company": "Playson",
-      "url": "https://jobicy.com/jobs/159162-legal-counsel-3",
+      "url": "https://jobicy.com/jobs/152752-senior-backend-engineer-core-team",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Europe,  Ukraine",
       "remoteHint": false
     },
     {
-      "title": "Revenue Accounting Manager",
+      "title": "Fullstack Software Engineer - Core",
+      "company": "Dataiku",
+      "url": "https://jobicy.com/jobs/152707-fullstack-software-engineer-core",
+      "source": "jobicy",
+      "location": "France,  Germany,  Netherlands,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Integratief Counselor",
+      "company": "BetterHelp",
+      "url": "https://jobicy.com/jobs/152702-integratief-counselor",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "GZ-psycholoog",
+      "company": "BetterHelp",
+      "url": "https://jobicy.com/jobs/152698-gz-psycholoog",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Alliances & Channels Leader",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/159161-revenue-accounting-manager-4",
+      "url": "https://jobicy.com/jobs/148714-alliances-channels-leader",
       "source": "jobicy",
-      "location": "EMEA",
+      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Manual QA Engineer (Game Client)",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/159157-manual-qa-engineer-game-client-2",
+      "title": "Devices & IOT Field Engineering Manager",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Partner Engineer",
-      "company": "Contentstack",
-      "url": "https://jobicy.com/jobs/159156-partner-engineer-2",
+      "title": "Shape the Future of AI — Ilocano Talent Hub",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159816-shape-the-future-of-ai-ilocano-talent-hub",
       "source": "jobicy",
-      "location": "EMEA",
+      "location": "Europe,  Philippines",
       "remoteHint": false
     },
     {
-      "title": "Staff Engineer – Identity and Access Management User Platform",
-      "company": "Spotify",
-      "url": "https://jobicy.com/jobs/159119-staff-engineer-identity-and-access-management-user-platform",
+      "title": "Project Lion - Senior Prompt Engineer - Netherland (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159778-project-lion-senior-prompt-engineer-netherland-remote-part-time",
       "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
-      "company": "Binance",
-      "url": "https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2",
-      "source": "jobicy",
-      "location": "Europe,  UAE",
+      "location": "Netherlands",
       "remoteHint": true
     },
     {
-      "title": "English to Uzbek (Cyrillic) Review Lead for UI, Marketing & Product Content",
+      "title": "Non-Linguistic Quality Control Specialists (Europe)",
       "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159101-english-to-uzbek-cyrillic-review-lead-for-ui-marketing-product-content",
+      "url": "https://jobicy.com/jobs/159704-non-linguistic-quality-control-specialists-europe-2",
       "source": "jobicy",
-      "location": "Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/159681-full-stack-engineer-8",
+      "source": "jobicy",
+      "location": "Brazil,  Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "company": "infisical",
+      "url": "https://jobicy.com/jobs/159679-senior-full-stack-engineer-10",
+      "source": "jobicy",
+      "location": "Brazil,  Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Early Childhood Teacher",
+      "company": "Think Academy US",
+      "url": "https://jobicy.com/jobs/159663-early-childhood-teacher-3",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "QA Engineer (Anywhere in Europe)",
+      "company": "PadSplit",
+      "url": "https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Security Engineer, Identity and Access Management",
+      "company": "HackerOne",
+      "url": "https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management",
+      "source": "jobicy",
+      "location": "Netherlands,  UK,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks",
+      "source": "jobicy",
+      "location": "EMEA,  Singapore,  South Korea,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Strategic Customer Success Manager, EMEA",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/147411-strategic-customer-success-manager-emea-2",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Accounts Payable Clerk (Entry Level Opportunity)",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/148299-accounts-payable-clerk-entry-level-opportunity-2",
+      "source": "jobicy",
+      "location": "EMEA,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Global Director, Mid-Market Onboarding",
+      "company": "Cloudbeds",
+      "url": "https://jobicy.com/jobs/148660-global-director-mid-market-onboarding",
+      "source": "jobicy",
+      "location": "Canada,  Europe,  USA",
       "remoteHint": false
     }
   ],

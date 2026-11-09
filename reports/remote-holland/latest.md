@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-11-06T15:05:29.200Z · **Jobs:** 25
+**Updated:** 2026-11-09T17:33:00.644Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
 **Sources:** jobicy:25, remoteok:25, remotive:12, indeed:search-link-only (no scrape key)
 
-## 1. Lead Product Management
-- **Company:** Carrot
-- **Location:** Anywhere
+## 1. Spanish (Spain) to English Pharmacovigilance Linguist
+- **Company:** Welo Global
+- **Location:** Europe,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154674-lead-product-management
+- **URL:** https://jobicy.com/jobs/159907-spanish-spain-to-english-pharmacovigilance-linguist
 
-## 2. Engineering Manager - Python and K8s
-- **Company:** Canonical
-- **Location:** APAC,  EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s
-
-## 3. Talent Scientist - Graduate Lead
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150122-talent-scientist-graduate-lead
-
-## 4. CRM Marketing Intern
-- **Company:** Catawiki
+## 2. Freelance SEO Content Writer - Dutch
+- **Company:** Brafton
 - **Location:** Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/154706-crm-marketing-intern
+- **URL:** https://jobicy.com/jobs/154908-freelance-seo-content-writer-dutch
 
-## 5. C, Golang Software Engineer working on dqlite, a Raft extension for SQLite
-- **Company:** Canonical
-- **Location:** EMEA
+## 3. Director of Self Serve
+- **Company:** Paddle
+- **Location:** Canada,  Ireland,  Netherlands,  Portugal,  UK,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150128-c-golang-software-engineer-working-on-dqlite-a-raft-extension-for-sqlite
+- **URL:** https://jobicy.com/jobs/154925-director-of-self-serve
 
-## 6. Senior Software Engineer - MAAS
-- **Company:** Canonical
-- **Location:** EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150127-senior-software-engineer-maas
-
-## 7. Revenue Accountant
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150126-revenue-accountant
-
-## 8. Senior Software Engineer (Backend)
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150125-senior-software-engineer-backend
-
-## 9. Senior Web Engineer
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/150123-senior-web-engineer
-
-## 10. Senior Software Engineer, Frontend
-- **Company:** Phantom
-- **Location:** LATAM,  Canada,  Europe,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/152539-senior-software-engineer-frontend
-
-## 11. English to French (France) Linguist for Life Sciences
-- **Company:** Welo Global
+## 4. Accounting Automation Engineer
+- **Company:** Ruby Labs
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159221-english-to-french-france-linguist-for-life-sciences
+- **URL:** https://jobicy.com/jobs/154905-accounting-automation-engineer
 
-## 12. English to Estonian Review Lead for UI, Marketing & Product Content
-- **Company:** Welo Global
-- **Location:** Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159220-english-to-estonian-review-lead-for-ui-marketing-product-content
-
-## 13. English to Estonian Linguist for Life Sciences
-- **Company:** Welo Global
+## 5. Manager of Implementations, High Touch - EMEA
+- **Company:** Ashby
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159219-english-to-estonian-linguist-for-life-sciences
+- **URL:** https://jobicy.com/jobs/154897-manager-of-implementations-high-touch-emea
 
-## 14. English to Bosnian (Cyrillic) Review Lead for UI, Marketing & Product Content
-- **Company:** Welo Global
-- **Location:** Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam
+## 6. Full-Stack Engineer (Back-End Leaning)
+- **Company:** Elevenlabs
+- **Location:** Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Portugal,  Spain,  UK,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159217-english-to-bosnian-cyrillic-review-lead-for-ui-marketing-product-content
+- **URL:** https://jobicy.com/jobs/154018-full-stack-engineer-back-end-leaning
 
-## 15. English to Armenian Review Lead for UI, Marketing & Product Content
-- **Company:** Welo Global
-- **Location:** Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159215-english-to-armenian-review-lead-for-ui-marketing-product-content
-
-## 16. Salesforce Administrator
+## 7. Engineering Manager - Linux Hardware Enablement
 - **Company:** Canonical
-- **Location:** EMEA
+- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159172-salesforce-administrator
+- **URL:** https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement
 
-## 17. Sales Enablement Manager
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159171-sales-enablement-manager
-
-## 18. Sales Development Representative (Arabic Speaker)
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159165-sales-development-representative-arabic-speaker
-
-## 19. Legal Counsel
+## 8. Senior Backend Engineer (Core Team)
 - **Company:** Playson
-- **Location:** Europe
+- **Location:** Europe,  Ukraine
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159162-legal-counsel-3
+- **URL:** https://jobicy.com/jobs/152752-senior-backend-engineer-core-team
 
-## 20. Revenue Accounting Manager
+## 9. Fullstack Software Engineer - Core
+- **Company:** Dataiku
+- **Location:** France,  Germany,  Netherlands,  Spain,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152707-fullstack-software-engineer-core
+
+## 10. Integratief Counselor
+- **Company:** BetterHelp
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152702-integratief-counselor
+
+## 11. GZ-psycholoog
+- **Company:** BetterHelp
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/152698-gz-psycholoog
+
+## 12. Alliances & Channels Leader
 - **Company:** Canonical
-- **Location:** EMEA
+- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159161-revenue-accounting-manager-4
+- **URL:** https://jobicy.com/jobs/148714-alliances-channels-leader
 
-## 21. Manual QA Engineer (Game Client)
-- **Company:** Playson
+## 13. Devices & IOT Field Engineering Manager
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas
+
+## 14. Shape the Future of AI — Ilocano Talent Hub
+- **Company:** Welo Global
+- **Location:** Europe,  Philippines
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/159816-shape-the-future-of-ai-ilocano-talent-hub
+
+## 15. Project Lion - Senior Prompt Engineer - Netherland (Remote, Part-Time)
+- **Company:** Welo Global
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/159778-project-lion-senior-prompt-engineer-netherland-remote-part-time
+
+## 16. Non-Linguistic Quality Control Specialists (Europe)
+- **Company:** Welo Global
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159157-manual-qa-engineer-game-client-2
+- **URL:** https://jobicy.com/jobs/159704-non-linguistic-quality-control-specialists-europe-2
 
-## 22. Partner Engineer
-- **Company:** Contentstack
-- **Location:** EMEA
+## 17. Full Stack Engineer
+- **Company:** infisical
+- **Location:** Brazil,  Canada,  Europe,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159156-partner-engineer-2
+- **URL:** https://jobicy.com/jobs/159681-full-stack-engineer-8
 
-## 23. Staff Engineer – Identity and Access Management User Platform
-- **Company:** Spotify
-- **Location:** EMEA
+## 18. Senior Full Stack Engineer
+- **Company:** infisical
+- **Location:** Brazil,  Canada,  Europe,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159119-staff-engineer-identity-and-access-management-user-platform
+- **URL:** https://jobicy.com/jobs/159679-senior-full-stack-engineer-10
 
-## 24. DevOps Engineer, Blockchain Infra (Fully Remote)
-- **Company:** Binance
-- **Location:** Europe,  UAE
+## 19. Early Childhood Teacher
+- **Company:** Think Academy US
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159117-devops-engineer-blockchain-infra-fully-remote-2
+- **URL:** https://jobicy.com/jobs/159663-early-childhood-teacher-3
 
-## 25. English to Uzbek (Cyrillic) Review Lead for UI, Marketing & Product Content
-- **Company:** Welo Global
-- **Location:** Argentina,  Australia,  Austria,  Belgium,  Brazil,  Bulgaria,  Canada,  China,  Costa Rica,  Croatia,  Czechia,  Denmark,  Finland,  France,  Germany,  Greece,  Hong Kong,  Hungary,  Ireland,  Israel,  Italy,  Japan,  Lithuania,  Malaysia,  Mexico,  Netherlands,  New Zealand,  Norway,  Philippines,  Poland,  Portugal,  Romania,  Singapore,  South Korea,  Spain,  Sweden,  Switzerland,  Thailand,  Türkiye,  UAE,  UK,  USA,  Vietnam
+## 20. QA Engineer (Anywhere in Europe)
+- **Company:** PadSplit
+- **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/159101-english-to-uzbek-cyrillic-review-lead-for-ui-marketing-product-content
+- **URL:** https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe
+
+## 21. Senior Security Engineer, Identity and Access Management
+- **Company:** HackerOne
+- **Location:** Netherlands,  UK,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154842-senior-security-engineer-identity-and-access-management
+
+## 22. Senior / Staff Threat Intelligence Analyst, Hacks
+- **Company:** TRM Labs
+- **Location:** EMEA,  Singapore,  South Korea,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/154835-senior-staff-threat-intelligence-analyst-hacks
+
+## 23. Strategic Customer Success Manager, EMEA
+- **Company:** Ashby
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/147411-strategic-customer-success-manager-emea-2
+
+## 24. Accounts Payable Clerk (Entry Level Opportunity)
+- **Company:** Canonical
+- **Location:** EMEA,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/148299-accounts-payable-clerk-entry-level-opportunity-2
+
+## 25. Global Director, Mid-Market Onboarding
+- **Company:** Cloudbeds
+- **Location:** Canada,  Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/148660-global-director-mid-market-onboarding
