@@ -1,216 +1,216 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-11-13T15:25:21.980Z",
+  "searchedAt": "2026-11-16T17:03:45.596Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
   "sourcesUsed": [
     "jobicy:25",
     "remoteok:25",
-    "remotive:15",
+    "remotive:16",
     "indeed:search-link-only (no scrape key)"
   ],
   "errors": [],
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Director, Solutions Architecture EMEA",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/161765-director-solutions-architecture-emea-2",
+      "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+      "company": "Binance",
+      "url": "https://jobicy.com/jobs/162617-devops-engineer-blockchain-infra-fully-remote-3",
       "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
+      "location": "Europe,  UAE",
+      "remoteHint": true
     },
     {
-      "title": "(Senior) Product Marketing Manager (m/f/d)",
-      "company": "Kayzen",
-      "url": "https://jobicy.com/jobs/161762-senior-product-marketing-manager-m-f-d",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Junior Logistics Executive (Netherlands)",
-      "company": "Nivoda",
-      "url": "https://jobicy.com/jobs/161757-junior-logistics-executive-netherlands",
+      "title": "Specialist Account Executive, Sec Ops",
+      "company": "Zscaler",
+      "url": "https://jobicy.com/jobs/162596-specialist-account-executive-sec-ops",
       "source": "jobicy",
       "location": "Netherlands",
       "remoteHint": false
     },
     {
-      "title": "Detection & Response Engineer",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/161755-detection-response-engineer-2",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Staff Forward Deployed Engineer, EMEA",
-      "company": "GitLab",
-      "url": "https://jobicy.com/jobs/161753-staff-forward-deployed-engineer-emea",
-      "source": "jobicy",
-      "location": "Austria,  France,  Germany,  Ireland,  Netherlands,  Spain,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Data Scientist (m/f/d)",
-      "company": "Kayzen",
-      "url": "https://jobicy.com/jobs/161752-senior-data-scientist-m-f-d",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Enterprise Sales Executive, AI Solutions",
-      "company": "Toptal",
-      "url": "https://jobicy.com/jobs/161750-enterprise-sales-executive-ai-solutions-2",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Account Manager",
-      "company": "Cloudbeds",
-      "url": "https://jobicy.com/jobs/161748-account-manager-18",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Junior Fulfilment Executive (Netherlands)",
-      "company": "Nivoda",
-      "url": "https://jobicy.com/jobs/161744-junior-fulfilment-executive-netherlands",
+      "title": "Senior Technical Success Manager",
+      "company": "Zscaler",
+      "url": "https://jobicy.com/jobs/162594-senior-technical-success-manager",
       "source": "jobicy",
       "location": "Netherlands",
       "remoteHint": false
     },
     {
-      "title": "Data Center - Supply Chain Manager (EMEA)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/161739-data-center-supply-chain-manager-emea-2",
+      "title": "Senior Sales Engineer",
+      "company": "Zscaler",
+      "url": "https://jobicy.com/jobs/162580-senior-sales-engineer-10",
       "source": "jobicy",
-      "location": "Europe",
+      "location": "Netherlands",
       "remoteHint": false
     },
     {
-      "title": "Marketing Manager, Community & Events (m/f/d)",
-      "company": "Kayzen",
-      "url": "https://jobicy.com/jobs/161736-marketing-manager-community-events-m-f-d",
+      "title": "Senior DevOps Engineer",
+      "company": "Documo Inc.",
+      "url": "https://jobicy.com/jobs/155494-senior-devops-engineer-9",
       "source": "jobicy",
-      "location": "EMEA",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Senior Compliance Manager, Derivatives Trade Reporting",
-      "company": "OKX",
-      "url": "https://jobicy.com/jobs/161720-senior-compliance-manager-derivatives-trade-reporting",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Research Scientist - Generative Audio",
-      "company": "Spotify",
-      "url": "https://jobicy.com/jobs/155214-research-scientist-generative-audio",
-      "source": "jobicy",
-      "location": "EMEA",
-      "remoteHint": false
-    },
-    {
-      "title": "Expert Comics - Tintin & Dutch Traditional Comics",
+      "title": "Category Manager Asian & Tribal Arts",
       "company": "Catawiki",
-      "url": "https://jobicy.com/jobs/155245-expert-comics-tintin-dutch-traditional-comics",
+      "url": "https://jobicy.com/jobs/153255-category-manager-asian-tribal-arts",
       "source": "jobicy",
-      "location": "Belgium,  France,  Italy,  Netherlands",
+      "location": "France,  Italy,  Netherlands",
       "remoteHint": false
     },
     {
-      "title": "Product Support Specialist - EMEA",
+      "title": "Regional Sales Director",
+      "company": "Tenable",
+      "url": "https://jobicy.com/jobs/155432-regional-sales-director-2",
+      "source": "jobicy",
+      "location": "Belgium,  France,  Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "GTM Systems Analyst",
       "company": "Ashby",
-      "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
+      "url": "https://jobicy.com/jobs/155421-gtm-systems-analyst",
+      "source": "jobicy",
+      "location": "Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Strategic Customer Success Manager - EMEA",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/155426-strategic-customer-success-manager-emea",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Regional BDR Team Manager",
+      "title": "Account Executive, EMEA",
+      "company": "Socket",
+      "url": "https://jobicy.com/jobs/153265-account-executive-emea-3",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Principal ML Platform Engineer",
+      "company": "Synthesia",
+      "url": "https://jobicy.com/jobs/153242-principal-ml-platform-engineer",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Backend Engineer (Boosters)",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153227-senior-backend-engineer-boosters",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Group Financial Controller",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/161694-regional-bdr-team-manager",
+      "url": "https://jobicy.com/jobs/146021-group-financial-controller",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "EMEA,  UK",
       "remoteHint": false
     },
     {
-      "title": "FinOps Data Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/161693-finops-data-engineer",
+      "title": "Senior Software Engineer (Game Engine)",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/146058-senior-software-engineer-game-engine",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Partner Sales Manager - IHV Alliances",
+      "title": "Cost Accounting Manager",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/161692-partner-sales-manager-ihv-alliances",
+      "url": "https://jobicy.com/jobs/146030-cost-accounting-manager",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "EMEA,  UK",
       "remoteHint": false
     },
     {
-      "title": "Product Manager - Auth",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/161691-product-manager-auth",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Partner Sales Director - IHV Alliances",
+      "title": "Entry-level communications specialist",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/161689-partner-sales-director-ihv-alliances",
+      "url": "https://jobicy.com/jobs/146028-entry-level-communications-specialist",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Senior Accountant",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/161688-senior-accountant-10",
+      "title": "Senior Integration Engineer",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153232-senior-integration-engineer",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Senior Engineering Manager, Consumer / New Verticals",
-      "company": "Flex",
-      "url": "https://jobicy.com/jobs/161687-senior-engineering-manager-consumer-new-verticals",
+      "title": "Marketing Designer",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153230-marketing-designer",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Manager of Enterprise Open Source Sales Team",
+      "title": "Senior Game Mathematician",
+      "company": "Playson",
+      "url": "https://jobicy.com/jobs/153229-senior-game-mathematician",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Marketing Automation Manager",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/161685-manager-of-enterprise-open-source-sales-team",
+      "url": "https://jobicy.com/jobs/146167-senior-marketing-automation-manager",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Early Childhood Teacher (PT)",
-      "company": "Think Academy US",
-      "url": "https://jobicy.com/jobs/161684-early-childhood-teacher-pt-4",
+      "title": "Expert Dutch and Belgian Comics",
+      "company": "Catawiki",
+      "url": "https://jobicy.com/jobs/146061-expert-dutch-and-belgian-comics",
       "source": "jobicy",
-      "location": "Anywhere",
+      "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Head of Ecosystem",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/161683-head-of-ecosystem",
+      "title": "Senior Marketing Manager",
+      "company": "Enode",
+      "url": "https://jobicy.com/jobs/162416-senior-marketing-manager-2",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Commercial Account Executive, Netherlands",
+      "company": "Horizon3.ai",
+      "url": "https://jobicy.com/jobs/162317-commercial-account-executive-netherlands-2",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "IT Department Lead - Remote, Worldwide",
+      "company": "Nethermind",
+      "url": "https://jobicy.com/jobs/162315-it-department-lead-remote-worldwide",
       "source": "jobicy",
       "location": "Anywhere",
+      "remoteHint": true
+    },
+    {
+      "title": "Senior Technical SEO Specialist",
+      "company": "Reedsy",
+      "url": "https://jobicy.com/jobs/162307-senior-technical-seo-specialist",
+      "source": "jobicy",
+      "location": "Canada,  France,  Italy,  Netherlands,  Portugal,  Spain,  Sweden,  UK,  USA",
       "remoteHint": false
     }
   ],
