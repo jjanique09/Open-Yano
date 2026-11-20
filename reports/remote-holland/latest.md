@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-11-18T16:28:39.405Z · **Jobs:** 25
+**Updated:** 2026-11-20T16:10:42.186Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
-**Sources:** jobicy:25, remoteok:25, remotive:15, indeed:search-link-only (no scrape key)
+**Sources:** jobicy:25, remoteok:25, remotive:14, indeed:search-link-only (no scrape key)
 
-## 1. Applied AI Engineer - AI Finance Agent
-- **Company:** BJAK
-- **Location:** Netherlands
+## 1. New Business Account Executive - Nordics
+- **Company:** GitLab
+- **Location:** Netherlands,  Sweden,  UK
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163127-applied-ai-engineer-ai-finance-agent
+- **URL:** https://jobicy.com/jobs/163526-new-business-account-executive-nordics
 
-## 2. Senior Product Manager – Universal KYC (MetaMask Passport)
-- **Company:** Consensys
-- **Location:** EMEA,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163125-senior-product-manager-universal-kyc-metamask-passport
-
-## 3. Senior People Operations Associate
-- **Company:** Consensys
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163122-senior-people-operations-associate
-
-## 4. Senior Manager, Application Security
-- **Company:** Consensys
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163118-senior-manager-application-security
-
-## 5. Business Recruiter - International Sales (UK/EMEA)
-- **Company:** TRM Labs
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163115-business-recruiter-international-sales-uk-emea
-
-## 6. Full-Stack Engineer - ElevenMusic
-- **Company:** Elevenlabs
-- **Location:** Denmark,  France,  Netherlands,  Poland,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163113-full-stack-engineer-elevenmusic
-
-## 7. Senior Design Engineer
-- **Company:** Consensys
-- **Location:** EMEA,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163111-senior-design-engineer-2
-
-## 8. Manager, Solutions Engineering | NorBen | Remote
-- **Company:** Grafana Labs
-- **Location:** Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163110-manager-solutions-engineering-norben-remote-2
-
-## 9. Fivetran Reseller Partner Development Manager, EMEA
-- **Company:** Fivetran
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163105-fivetran-reseller-partner-development-manager-emea
-
-## 10. Marketplace Operations
-- **Company:** Elevenlabs
-- **Location:** Australia,  Ireland,  Italy,  Japan,  Netherlands,  Poland,  UK,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163102-marketplace-operations
-
-## 11. Experiential Marketing Manager
-- **Company:** Consensys
-- **Location:** EMEA,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163100-experiential-marketing-manager
-
-## 12. International Audio/Video Remote Toisan and Mandarin or Cantonese Interpreter
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155762-international-audio-video-remote-toisan-and-mandarin-or-cantonese-interpreter
-
-## 13. International Audio/Video Remote Spanish Interpreter
-- **Company:** Language Services Associates
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155758-international-audio-video-remote-spanish-interpreter
-
-## 14. Staff Software Engineer - Python, Java / Spring or Go
-- **Company:** Bloomreach
+## 2. Senior Accountant
+- **Company:** saas.group
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155731-staff-software-engineer-python-java-spring-or-go
+- **URL:** https://jobicy.com/jobs/163521-senior-accountant-13
 
-## 15. Senior Software Engineer, Data Pipeline
-- **Company:** Bloomreach
+## 3. Accounting Manager
+- **Company:** saas.group
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155730-senior-software-engineer-data-pipeline
+- **URL:** https://jobicy.com/jobs/163517-accounting-manager-3
 
-## 16. Machine Learning Engineer (Governance ML Platform)
-- **Company:** EDB
-- **Location:** EMEA
+## 4. Developer Support Engineer
+- **Company:** RevenueCat
+- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform
+- **URL:** https://jobicy.com/jobs/163453-developer-support-engineer-2
 
-## 17. Principal Production Designer, Print & Packaging
+## 5. Manager, Legal Programs, Privacy & AI (EU/UK)
 - **Company:** hims &#038; hers
 - **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155728-principal-production-designer-print-packaging
+- **URL:** https://jobicy.com/jobs/163445-manager-legal-programs-privacy-ai-eu-uk
 
-## 18. Enterprise Customer Success Manager (French speaker)
-- **Company:** Canonical
-- **Location:** EMEA
+## 6. Senior Counsel, Privacy & AI (EU/UK)
+- **Company:** hims &#038; hers
+- **Location:** Europe
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155706-enterprise-customer-success-manager-french-speaker
+- **URL:** https://jobicy.com/jobs/163442-senior-counsel-privacy-ai-eu-uk
 
-## 19. Enterprise Customer Success Manager
-- **Company:** Canonical
+## 7. SAR Image Annotation Consultant
+- **Company:** ICEYE
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163438-sar-image-annotation-consultant
+
+## 8. Senior Director, Compensation & Benefits
+- **Company:** Consensys
+- **Location:** EMEA,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163415-senior-director-compensation-benefits
+
+## 9. Head of Sales
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156020-head-of-sales-2
+
+## 10. Head of Customer Growth
+- **Company:** RevenueCat
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156023-head-of-customer-growth
+
+## 11. Conceptual Copywriter
+- **Company:** Superside
 - **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155703-enterprise-customer-success-manager-9
+- **URL:** https://jobicy.com/jobs/153612-conceptual-copywriter
 
-## 20. Deployment Strategist, Eastern Europe
+## 12. Ads Quality Rater - Dutch (Netherlands)
+- **Company:** Welo Global
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/153570-ads-quality-rater-dutch-netherlands
+
+## 13. Account Director
+- **Company:** Superside
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/151032-account-director
+
+## 14. Manager, Training and Enablement
+- **Company:** Cloudbeds
+- **Location:** LATAM,  Canada,  Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163364-manager-training-and-enablement
+
+## 15. Senior/Staff Site Reliability Engineer (Server Infrastructure)
+- **Company:** Nebius
+- **Location:** Czechia,  Finland,  Germany,  Netherlands,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163266-senior-staff-site-reliability-engineer-server-infrastructure
+
+## 16. Support Manager - EMEA
+- **Company:** Ashby
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163265-support-manager-emea
+
+## 17. Senior Site Reliability Engineer (Data Platform)
+- **Company:** Nebius
+- **Location:** Czechia,  Germany,  Israel,  Netherlands,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163263-senior-site-reliability-engineer-data-platform
+
+## 18. SIP Expert
+- **Company:** Elevenlabs
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163233-sip-expert
+
+## 19. Full Stack Software Engineer - AI Finance Agent
+- **Company:** BJAK
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/163230-full-stack-software-engineer-ai-finance-agent
+
+## 20. Full-Stack Engineer (Backend Leaning) - Creative Agents
+- **Company:** Elevenlabs
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155939-full-stack-engineer-backend-leaning-creative-agents
+
+## 21. Account Management Lead - Western Europe
+- **Company:** Elevenlabs
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155935-account-management-lead-western-europe
+
+## 22. Developer Experience Engineer
+- **Company:** Elevenlabs
+- **Location:** Europe,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155936-developer-experience-engineer
+
+## 23. Instructional Designer, TRM Academy (Compliance)
 - **Company:** TRM Labs
+- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance
+
+## 24. Community Manager, Dutch Speaking (Contract)
+- **Company:** Reddit
+- **Location:** Netherlands
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/155884-community-manager-dutch-speaking-contract
+
+## 25. Accountant
+- **Company:** Canonical
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155691-deployment-strategist-eastern-europe
-
-## 21. Expert Model Trains
-- **Company:** Catawiki
-- **Location:** Belgium,  France,  Germany,  Italy,  Netherlands,  Portugal,  Spain,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155621-expert-model-trains
-
-## 22. Expert Tribal Art
-- **Company:** Catawiki
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155625-expert-tribal-art
-
-## 23. Expert Trading Cards
-- **Company:** Catawiki
-- **Location:** Germany,  Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155624-expert-trading-cards
-
-## 24. Expert Stamps Benelux
-- **Company:** Catawiki
-- **Location:** Belgium,  Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155623-expert-stamps-benelux
-
-## 25. Expert Modern and World Coins Expert (Coins & Banknotes)
-- **Company:** Catawiki
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/155622-expert-modern-and-world-coins-expert-coins-banknotes
+- **URL:** https://jobicy.com/jobs/155841-accountant-5
