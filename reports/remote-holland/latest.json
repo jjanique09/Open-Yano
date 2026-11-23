@@ -1,6 +1,6 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-11-20T16:10:42.186Z",
+  "searchedAt": "2026-11-23T19:15:32.828Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
@@ -14,203 +14,203 @@
   "jobCount": 25,
   "jobs": [
     {
-      "title": "New Business Account Executive - Nordics",
-      "company": "GitLab",
-      "url": "https://jobicy.com/jobs/163526-new-business-account-executive-nordics",
-      "source": "jobicy",
-      "location": "Netherlands,  Sweden,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Accountant",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/163521-senior-accountant-13",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Accounting Manager",
-      "company": "saas.group",
-      "url": "https://jobicy.com/jobs/163517-accounting-manager-3",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Developer Support Engineer",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/163453-developer-support-engineer-2",
-      "source": "jobicy",
-      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Manager, Legal Programs, Privacy & AI (EU/UK)",
-      "company": "hims &#038; hers",
-      "url": "https://jobicy.com/jobs/163445-manager-legal-programs-privacy-ai-eu-uk",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Counsel, Privacy & AI (EU/UK)",
-      "company": "hims &#038; hers",
-      "url": "https://jobicy.com/jobs/163442-senior-counsel-privacy-ai-eu-uk",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "SAR Image Annotation Consultant",
-      "company": "ICEYE",
-      "url": "https://jobicy.com/jobs/163438-sar-image-annotation-consultant",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Director, Compensation & Benefits",
-      "company": "Consensys",
-      "url": "https://jobicy.com/jobs/163415-senior-director-compensation-benefits",
-      "source": "jobicy",
-      "location": "EMEA,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Head of Sales",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156020-head-of-sales-2",
-      "source": "jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Head of Customer Growth",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156023-head-of-customer-growth",
-      "source": "jobicy",
-      "location": "EMEA,  LATAM,  Canada,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Conceptual Copywriter",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/153612-conceptual-copywriter",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Ads Quality Rater - Dutch (Netherlands)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/153570-ads-quality-rater-dutch-netherlands",
-      "source": "jobicy",
-      "location": "Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Account Director",
-      "company": "Superside",
-      "url": "https://jobicy.com/jobs/151032-account-director",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Manager, Training and Enablement",
-      "company": "Cloudbeds",
-      "url": "https://jobicy.com/jobs/163364-manager-training-and-enablement",
-      "source": "jobicy",
-      "location": "LATAM,  Canada,  Europe,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior/Staff Site Reliability Engineer (Server Infrastructure)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/163266-senior-staff-site-reliability-engineer-server-infrastructure",
-      "source": "jobicy",
-      "location": "Czechia,  Finland,  Germany,  Netherlands,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Support Manager - EMEA",
-      "company": "Ashby",
-      "url": "https://jobicy.com/jobs/163265-support-manager-emea",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Site Reliability Engineer (Data Platform)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/163263-senior-site-reliability-engineer-data-platform",
-      "source": "jobicy",
-      "location": "Czechia,  Germany,  Israel,  Netherlands,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "SIP Expert",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/163233-sip-expert",
-      "source": "jobicy",
-      "location": "Europe",
-      "remoteHint": false
-    },
-    {
-      "title": "Full Stack Software Engineer - AI Finance Agent",
+      "title": "Product Manager - AI Neobank App",
       "company": "BJAK",
-      "url": "https://jobicy.com/jobs/163230-full-stack-software-engineer-ai-finance-agent",
+      "url": "https://jobicy.com/jobs/163956-product-manager-ai-neobank-app",
       "source": "jobicy",
       "location": "Netherlands",
       "remoteHint": false
     },
     {
-      "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/155939-full-stack-engineer-backend-leaning-creative-agents",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Account Management Lead - Western Europe",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/155935-account-management-lead-western-europe",
+      "title": "NOC Engineer Level 2",
+      "company": "Airalo",
+      "url": "https://jobicy.com/jobs/163950-noc-engineer-level-2",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Developer Experience Engineer",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/155936-developer-experience-engineer",
+      "title": "Product Manager - Security",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/163913-product-manager-security-3",
       "source": "jobicy",
-      "location": "Europe,  USA",
+      "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Instructional Designer, TRM Academy (Compliance)",
-      "company": "TRM Labs",
-      "url": "https://jobicy.com/jobs/155918-instructional-designer-trm-academy-compliance",
+      "title": "Offensive Security Engineer",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/163910-offensive-security-engineer-3",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Network Security Engineer",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/163907-network-security-engineer-2",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Product Sales Specialist, EMEA",
+      "company": "Cribl",
+      "url": "https://jobicy.com/jobs/163903-product-sales-specialist-emea-2",
+      "source": "jobicy",
+      "location": "Germany,  Netherlands,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Major Account Executive | Remote | Netherlands",
+      "company": "Grafana Labs",
+      "url": "https://jobicy.com/jobs/163898-major-account-executive-remote-netherlands",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": true
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Banyan Software",
+      "url": "https://jobicy.com/jobs/156602-forward-deployed-engineer-8",
+      "source": "jobicy",
+      "location": "Belgium,  Germany,  Netherlands,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Manager- Ceph & Distributed Storage",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2",
       "source": "jobicy",
       "location": "EMEA,  LATAM,  Canada,  USA",
       "remoteHint": false
     },
     {
-      "title": "Community Manager, Dutch Speaking (Contract)",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/155884-community-manager-dutch-speaking-contract",
+      "title": "Business Development Representative",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156578-business-development-representative-20",
       "source": "jobicy",
-      "location": "Netherlands",
+      "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Accountant",
+      "title": "Engineering Director - Commercial Systems",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/155841-accountant-5",
+      "url": "https://jobicy.com/jobs/156570-engineering-director-commercial-systems",
       "source": "jobicy",
       "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Business Services Team Manager",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156580-business-services-team-manager",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Director - Business Data",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156569-engineering-director-business-data",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Software Engineer, Backend",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/156558-senior-software-engineer-backend-4",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Cloud Platform Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156583-cloud-platform-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Performance Engineer - Benchmarking",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156582-performance-engineer-benchmarking",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Performance Engineer - Performance Analysis & Tuning",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Release Engineer",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/156579-release-engineer",
+      "source": "jobicy",
+      "location": "Anywhere",
+      "remoteHint": false
+    },
+    {
+      "title": "Sr. Engineer, Infrastructure Security",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security",
+      "source": "jobicy",
+      "location": "EMEA,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Sr. Engineer, Database Reliability",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/156564-sr-engineer-database-reliability",
+      "source": "jobicy",
+      "location": "EMEA,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Enterprise Account Executive",
+      "company": "Algolia",
+      "url": "https://jobicy.com/jobs/156531-enterprise-account-executive-24",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Manager - Distributed Systems, Python / Go",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Engineering Manager, Commercial Systems",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/156572-engineering-manager-commercial-systems",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Software Engineer, Product/AI",
+      "company": "Customer.io",
+      "url": "https://jobicy.com/jobs/156560-senior-software-engineer-product-ai",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Business Development Representative",
+      "company": "Kinsta",
+      "url": "https://jobicy.com/jobs/151347-business-development-representative-8",
+      "source": "jobicy",
+      "location": "EMEA,  Czechia",
       "remoteHint": false
     }
   ],
