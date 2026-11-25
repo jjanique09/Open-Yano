@@ -1,158 +1,158 @@
 # Remote jobs — Netherlands
 
 **Query:** `remote` · **Location:** `Nederland`
-**Updated:** 2026-11-23T19:15:32.828Z · **Jobs:** 25
+**Updated:** 2026-11-25T17:58:48.612Z · **Jobs:** 25
 
 **Indeed (live search):** https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date
 
 **Sources:** jobicy:25, remoteok:25, remotive:14, indeed:search-link-only (no scrape key)
 
-## 1. Product Manager - AI Neobank App
-- **Company:** BJAK
+## 1. Community Lead & Talent Acquisition Advisor - DACH
+- **Company:** Ashby
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/164244-community-lead-talent-acquisition-advisor-dach
+
+## 2. Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels
+
+## 3. Senior Product Manager, User Acquisition
+- **Company:** RevenueCat
+- **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156992-senior-product-manager-user-acquisition
+
+## 4. People Operations Partner
+- **Company:** Playson
+- **Location:** Europe
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/157031-people-operations-partner
+
+## 5. Strategic Account Executive (Netherlands)
+- **Company:** Ping Identity
 - **Location:** Netherlands
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163956-product-manager-ai-neobank-app
+- **URL:** https://jobicy.com/jobs/156988-strategic-account-executive-netherlands
 
-## 2. NOC Engineer Level 2
-- **Company:** Airalo
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163950-noc-engineer-level-2
-
-## 3. Product Manager - Security
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163913-product-manager-security-3
-
-## 4. Offensive Security Engineer
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163910-offensive-security-engineer-3
-
-## 5. Network Security Engineer
-- **Company:** Nebius
-- **Location:** Europe
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163907-network-security-engineer-2
-
-## 6. Product Sales Specialist, EMEA
-- **Company:** Cribl
-- **Location:** Germany,  Netherlands,  Spain,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163903-product-sales-specialist-emea-2
-
-## 7. Major Account Executive | Remote | Netherlands
-- **Company:** Grafana Labs
-- **Location:** Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/163898-major-account-executive-remote-netherlands
-
-## 8. Forward Deployed Engineer
-- **Company:** Banyan Software
-- **Location:** Belgium,  Germany,  Netherlands,  UK
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156602-forward-deployed-engineer-8
-
-## 9. Engineering Manager- Ceph & Distributed Storage
-- **Company:** Canonical
-- **Location:** EMEA,  LATAM,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156571-engineering-manager-ceph-distributed-storage-2
-
-## 10. Business Development Representative
-- **Company:** Canonical
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156578-business-development-representative-20
-
-## 11. Engineering Director - Commercial Systems
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156570-engineering-director-commercial-systems
-
-## 12. Business Services Team Manager
-- **Company:** Canonical
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156580-business-services-team-manager
-
-## 13. Engineering Director - Business Data
-- **Company:** Canonical
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156569-engineering-director-business-data
-
-## 14. Senior Software Engineer, Backend
-- **Company:** Customer.io
-- **Location:** EMEA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156558-senior-software-engineer-backend-4
-
-## 15. Cloud Platform Engineer
+## 6. Platform Engineer - Compute Capacity
 - **Company:** Supabase
 - **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156583-cloud-platform-engineer
+- **URL:** https://jobicy.com/jobs/156946-platform-engineer-compute-capacity
 
-## 16. Performance Engineer - Benchmarking
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156582-performance-engineer-benchmarking
-
-## 17. Performance Engineer - Performance Analysis & Tuning
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156581-performance-engineer-performance-analysis-tuning
-
-## 18. Release Engineer
-- **Company:** Supabase
-- **Location:** Anywhere
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156579-release-engineer
-
-## 19. Sr. Engineer, Infrastructure Security
-- **Company:** Zapier
-- **Location:** EMEA,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security
-
-## 20. Sr. Engineer, Database Reliability
-- **Company:** Zapier
-- **Location:** EMEA,  Canada,  USA
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156564-sr-engineer-database-reliability
-
-## 21. Enterprise Account Executive
-- **Company:** Algolia
-- **Location:** Netherlands
-- **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156531-enterprise-account-executive-24
-
-## 22. Engineering Manager - Distributed Systems, Python / Go
+## 7. Distributed Systems Engineer
 - **Company:** Canonical
-- **Location:** EMEA,  LATAM,  Canada,  USA
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156573-engineering-manager-distributed-systems-python-go
+- **URL:** https://jobicy.com/jobs/156945-distributed-systems-engineer-3
 
-## 23. Engineering Manager, Commercial Systems
-- **Company:** Canonical
+## 8. Product Manager - Realtime
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156943-product-manager-realtime
+
+## 9. Software Engineer - Storage
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156940-software-engineer-storage
+
+## 10. Data API Engineer
+- **Company:** Supabase
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156939-data-api-engineer
+
+## 11. Senior Sales Engineer - Majors (UK/Nordics/Netherlands)
+- **Company:** Datadog
+- **Location:** Denmark,  Netherlands,  Sweden,  UK
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/156976-senior-sales-engineer-majors-uk-nordics-netherlands
+
+## 12. Product Marketing Manager, AI Governance (EMEA)
+- **Company:** Kong Inc.
 - **Location:** EMEA
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156572-engineering-manager-commercial-systems
+- **URL:** https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea
 
-## 24. Senior Software Engineer, Product/AI
-- **Company:** Customer.io
-- **Location:** EMEA
+## 13. Engineering Manager - Solutions Engineering
+- **Company:** Canonical
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/156560-senior-software-engineer-product-ai
+- **URL:** https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering
 
-## 25. Business Development Representative
-- **Company:** Kinsta
-- **Location:** EMEA,  Czechia
+## 14. Engineering Manager - Ubuntu Security
+- **Company:** Canonical
+- **Location:** Anywhere
 - **Source:** jobicy
-- **URL:** https://jobicy.com/jobs/151347-business-development-representative-8
+- **URL:** https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security
+
+## 15. Rust Engineering Lead - Linux and Open Source
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source
+
+## 16. Containerization & Virtualisation Engineer
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149576-containerization-virtualisation-engineer
+
+## 17. Ubuntu Security Engineer
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149565-ubuntu-security-engineer
+
+## 18. Lead Linux Kernel Engineer - Ubuntu
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu
+
+## 19. Microservices Engineer
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149558-microservices-engineer
+
+## 20. Senior Site Reliability Engineer
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5
+
+## 21. Graduate Sales Development Representative
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149555-graduate-sales-development-representative
+
+## 22. Solution Architecture Manager
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149531-solution-architecture-manager
+
+## 23. Engineering Manager, Managed Services
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149528-engineering-manager-managed-services
+
+## 24. Cloud Field Engineer
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149523-cloud-field-engineer
+
+## 25. Security Risk Management Specialist
+- **Company:** Canonical
+- **Location:** Anywhere
+- **Source:** jobicy
+- **URL:** https://jobicy.com/jobs/149564-security-risk-management-specialist
