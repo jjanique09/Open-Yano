@@ -1,214 +1,214 @@
 {
   "agent": "remote-holland-jobs",
-  "searchedAt": "2026-11-25T17:58:48.612Z",
+  "searchedAt": "2026-11-27T17:28:39.504Z",
   "query": "remote",
   "location": "Nederland",
   "indeedSearchUrl": "https://nl.indeed.com/jobs?q=remote&l=Nederland&sort=date",
   "sourcesUsed": [
     "jobicy:25",
     "remoteok:25",
-    "remotive:14",
+    "remotive:15",
     "indeed:search-link-only (no scrape key)"
   ],
   "errors": [],
   "jobCount": 25,
   "jobs": [
     {
-      "title": "Community Lead & Talent Acquisition Advisor - DACH",
-      "company": "Ashby",
-      "url": "https://jobicy.com/jobs/164244-community-lead-talent-acquisition-advisor-dach",
+      "title": "Brazilian Subject Matter Expert in Literature and Linguistics",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/164569-brazilian-subject-matter-expert-in-literature-and-linguistics",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
+      "title": "Senior Clinical Product Lead | 100% Remote within Europe",
+      "company": "Docplanner",
+      "url": "https://jobicy.com/jobs/164498-senior-clinical-product-lead-100-remote-within-europe-2",
       "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
+      "location": "Europe",
+      "remoteHint": true
     },
     {
-      "title": "Senior Product Manager, User Acquisition",
-      "company": "RevenueCat",
-      "url": "https://jobicy.com/jobs/156992-senior-product-manager-user-acquisition",
-      "source": "jobicy",
-      "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
-      "remoteHint": false
-    },
-    {
-      "title": "People Operations Partner",
-      "company": "Playson",
-      "url": "https://jobicy.com/jobs/157031-people-operations-partner",
+      "title": "Platform Engineer - Database",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/164472-platform-engineer-database",
       "source": "jobicy",
       "location": "Europe",
       "remoteHint": false
     },
     {
-      "title": "Strategic Account Executive (Netherlands)",
-      "company": "Ping Identity",
-      "url": "https://jobicy.com/jobs/156988-strategic-account-executive-netherlands",
-      "source": "jobicy",
-      "location": "Netherlands",
-      "remoteHint": false
-    },
-    {
-      "title": "Platform Engineer - Compute Capacity",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Distributed Systems Engineer",
+      "title": "Executive Search Lead - Technology",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Product Manager - Realtime",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Software Engineer - Storage",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Data API Engineer",
-      "company": "Supabase",
-      "url": "https://jobicy.com/jobs/156939-data-api-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Sales Engineer - Majors (UK/Nordics/Netherlands)",
-      "company": "Datadog",
-      "url": "https://jobicy.com/jobs/156976-senior-sales-engineer-majors-uk-nordics-netherlands",
-      "source": "jobicy",
-      "location": "Denmark,  Netherlands,  Sweden,  UK",
-      "remoteHint": false
-    },
-    {
-      "title": "Product Marketing Manager, AI Governance (EMEA)",
-      "company": "Kong Inc.",
-      "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
+      "url": "https://jobicy.com/jobs/157409-executive-search-lead-technology",
       "source": "jobicy",
       "location": "EMEA",
       "remoteHint": false
     },
     {
-      "title": "Engineering Manager - Solutions Engineering",
+      "title": "Engineering Manager - Ubuntu Core",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149556-engineering-manager-solutions-engineering",
+      "url": "https://jobicy.com/jobs/157405-engineering-manager-ubuntu-core",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Staff Platform Security Engineer (Security)",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/154078-staff-platform-security-engineer-security",
+      "source": "jobicy",
+      "location": "Canada,  Europe,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
+      "company": "Phantom",
+      "url": "https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Database Support Engineer (EMEA)",
+      "company": "Supabase",
+      "url": "https://jobicy.com/jobs/154079-database-support-engineer-emea",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Enterprise Account Executive - DACH",
+      "company": "Ashby",
+      "url": "https://jobicy.com/jobs/151627-enterprise-account-executive-dach",
+      "source": "jobicy",
+      "location": "Austria,  Belgium,  Czechia,  France,  Germany,  Hungary,  Ireland,  Netherlands,  Poland,  Spain,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Account Executive",
+      "company": "Enode",
+      "url": "https://jobicy.com/jobs/151443-account-executive-11",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Personal Assistant",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/164447-personal-assistant",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Cobalt Core Pentester",
+      "company": "Cobalt",
+      "url": "https://jobicy.com/jobs/164416-cobalt-core-pentester-2",
+      "source": "jobicy",
+      "location": "APAC,  EMEA,  LATAM,  Canada",
+      "remoteHint": false
+    },
+    {
+      "title": "Staff Software Engineer - Revenue Intelligence",
+      "company": "Cloudbeds",
+      "url": "https://jobicy.com/jobs/164407-staff-software-engineer-revenue-intelligence",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": false
+    },
+    {
+      "title": "Dutch speaking Support Specialist",
+      "company": "Lightspeed Commerce",
+      "url": "https://jobicy.com/jobs/164384-dutch-speaking-support-specialist",
+      "source": "jobicy",
+      "location": "Belgium,  Germany,  Netherlands,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Product Manager, Fulfilment",
+      "company": "Nivoda",
+      "url": "https://jobicy.com/jobs/164383-senior-product-manager-fulfilment",
+      "source": "jobicy",
+      "location": "Netherlands,  UK,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Warehouse Executive (Netherlands) - Entry Level/No Experience Required",
+      "company": "Nivoda",
+      "url": "https://jobicy.com/jobs/164378-warehouse-executive-netherlands-entry-level-no-experience-required",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Sr. Customer Success Manager - EMEA",
+      "company": "Chili Piper",
+      "url": "https://jobicy.com/jobs/157224-sr-customer-success-manager-emea",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Major Account Executive Netherlands",
+      "company": "GitLab",
+      "url": "https://jobicy.com/jobs/157215-major-account-executive-netherlands",
+      "source": "jobicy",
+      "location": "Netherlands",
+      "remoteHint": false
+    },
+    {
+      "title": "Product Expert",
+      "company": "RevenueCat",
+      "url": "https://jobicy.com/jobs/157210-product-expert",
+      "source": "jobicy",
+      "location": "EMEA,  LATAM,  Canada,  USA",
+      "remoteHint": false
+    },
+    {
+      "title": "Senior Customer Success Manager - EMEA",
+      "company": "LaunchDarkly",
+      "url": "https://jobicy.com/jobs/157160-senior-customer-success-manager-emea",
+      "source": "jobicy",
+      "location": "EMEA",
+      "remoteHint": false
+    },
+    {
+      "title": "Infrastructure Security Engineer",
+      "company": "Elevenlabs",
+      "url": "https://jobicy.com/jobs/157064-infrastructure-security-engineer",
+      "source": "jobicy",
+      "location": "Belgium,  Bulgaria,  Croatia,  Czechia,  Denmark,  Hungary,  Ireland,  Italy,  Netherlands,  Poland,  Portugal,  Spain,  Sweden,  UK",
+      "remoteHint": false
+    },
+    {
+      "title": "Freelance - Spanish Data Annotation Specialist (100% Remote within Europe)",
+      "company": "Docplanner",
+      "url": "https://jobicy.com/jobs/154012-freelance-spanish-data-annotation-specialist-100-remote-within-europe",
+      "source": "jobicy",
+      "location": "Europe",
+      "remoteHint": true
+    },
+    {
+      "title": "Security Software Engineer",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149550-security-software-engineer",
       "source": "jobicy",
       "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Engineering Manager - Ubuntu Security",
+      "title": "Engineering Manager - MLOps & Analytics",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149572-engineering-manager-ubuntu-security",
+      "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics",
       "source": "jobicy",
       "location": "Anywhere",
       "remoteHint": false
     },
     {
-      "title": "Rust Engineering Lead - Linux and Open Source",
+      "title": "Junior Linux Kernel Engineer - Ubuntu",
       "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Containerization & Virtualisation Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149576-containerization-virtualisation-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Ubuntu Security Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Lead Linux Kernel Engineer - Ubuntu",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Microservices Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149558-microservices-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Senior Site Reliability Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149557-senior-site-reliability-engineer-5",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Graduate Sales Development Representative",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Solution Architecture Manager",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149531-solution-architecture-manager",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Engineering Manager, Managed Services",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149528-engineering-manager-managed-services",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Cloud Field Engineer",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-      "source": "jobicy",
-      "location": "Anywhere",
-      "remoteHint": false
-    },
-    {
-      "title": "Security Risk Management Specialist",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/149564-security-risk-management-specialist",
+      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
       "source": "jobicy",
       "location": "Anywhere",
       "remoteHint": false
